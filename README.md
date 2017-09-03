@@ -9,6 +9,8 @@
 
 > A curated list of awesome things related to Bitcoin Cash
 
+> Important: although caution will be taken to accept only reputable resources, the maintainer of this list takes no responsibility for any loss of funds from using any resource on this list. If you suspect a list item to be a scam, please report it and it will be investigated.
+
 # Contents
 
 - [Resources](#resources)
@@ -47,25 +49,25 @@
 - [Bitcoin Unlimited Cash Edition](https://www.bitcoinunlimited.info)
 - [Bitcoin ABC](https://www.bitcoinabc.org)
 
-### Desktop
+### Desktop Wallets
 
 - [Electron Cash](https://www.electroncash.org)
 - [Chris Pacia](https://github.com/cpacia/BitcoinCash-Wallet/releases)
 
-### Mobile
+### Mobile Wallets
 
 - [BTC.com Android](https://play.google.com/store/apps/details?id=com.blocktrail.mywallet)
 - [BTC.com iphone](https://itunes.apple.com/us/app/btc-com-bitcoin-wallet/id1019614423)
 
-### Web
+### Web Wallets
 
 - [BTC.com](https://bcc-wallet.btc.com)
 
-### Hardware
+### Hardware Wallets
 
 - [Ledger](https://www.ledgerwallet.com)
 
-### Paper
+### Paper Wallets
 
 - [Bitcoin Paper Wallet](https://bitcoinpaperwallet.com)
 - [Bitaddress](https://www.bitaddress.org)
