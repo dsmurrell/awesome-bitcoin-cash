@@ -25,6 +25,8 @@
   - [Full Nodes](#full-nodes)
   - [Desktop](#desktop-wallets)
   - [Mobile](#mobile-wallets)
+    - [Android](#android)
+    - [IPhone](#iphone)
   - [Web](#web-wallets)
   - [Hardware](#hardware-wallets)
   - [Paper](#paper-wallets)
@@ -45,8 +47,8 @@
 
 ### Reddit
 
-- [Reddit Bitcoin Cash](https://www.reddit.com/r/Bitcoincash/)
-- [Reddit r/btc](https://www.reddit.com/r/btc/)
+- [r/bitcoincash](https://www.reddit.com/r/bitcoincash/)
+- [r/btc](https://www.reddit.com/r/btc/)
 
 ### Twitter
 
@@ -54,30 +56,39 @@
 
 # Wallets
 
-### Full Nodes
+## Full Nodes
 
 - [Bitcoin Unlimited Cash Edition](https://www.bitcoinunlimited.info)
 - [Bitcoin ABC](https://www.bitcoinabc.org)
+- [Bitcoin Classic](https://bitcoinclassic.com)
+- [Bitcoin XT](https://bitcoinxt.software)
 
-### Desktop Wallets
+## Desktop Wallets
 
 - [Electron Cash](https://www.electroncash.org)
 - [Chris Pacia](https://github.com/cpacia/BitcoinCash-Wallet/releases)
 
-### Mobile Wallets
+## Mobile Wallets
 
-- [BTC.com Android](https://play.google.com/store/apps/details?id=com.blocktrail.mywallet)
-- [BTC.com iphone](https://itunes.apple.com/us/app/btc-com-bitcoin-wallet/id1019614423)
+### Android
 
-### Web Wallets
+- [bitcoin.com](https://play.google.com/store/apps/details?id=com.bitcoin.mwallet)
+- [BTC.com](https://play.google.com/store/apps/details?id=com.blocktrail.mywallet)
+
+### IPhone
+
+- [BTC.com](https://itunes.apple.com/us/app/btc-com-bitcoin-wallet/id1019614423)
+
+
+## Web Wallets
 
 - [BTC.com](https://bcc-wallet.btc.com)
 
-### Hardware Wallets
+## Hardware Wallets
 
 - [Ledger](https://www.ledgerwallet.com)
 
-### Paper Wallets
+## Paper Wallets
 
 - [Bitcoin Paper Wallet](https://bitcoinpaperwallet.com)
 - [Bitaddress](https://www.bitaddress.org)
