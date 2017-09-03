@@ -9,6 +9,8 @@
 
 > A curated list of awesome things related to Bitcoin Cash
 
+# Contents
+
 - [Resources](#resources)
   - [Official](#official-resources)
   - [Community](#community)
