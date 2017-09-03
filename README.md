@@ -163,3 +163,5 @@
 > "Unlike the previous situation in Bitcoin, there is no one single development team for Bitcoin Cash.  There are now multiple independent teams of developers. This decentralization of development (and decentralization of software implementations) is a much needed and important step forward." - https://www.bitcoincash.org/
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+Inspired by [awesome-vue](https://github.com/vuejs/awesome-vue)
