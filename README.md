@@ -16,6 +16,7 @@
 - [Resources](#resources)
   - [Official](#official-resources)
   - [High Volume Exchanges](#high-volume-exchanges)
+  - [Mining Pools](#mining-pools)
   - [Block Explorers](#block-explorers)
   - [Real Time Stats](#real-time-stats)
   - [Projects Using Bitcoin Cash](#projects-using-bitcoin-cash)
@@ -57,6 +58,14 @@
 - [Huobi](https://www.huobi.pro/exchange/bcc_btc)
 - [Yunbi](https://yunbi.com/markets/bcccny)
 - [BTER](https://bter.com/trade/bcc_cny)
+
+### Mining Pools
+
+- [Bitcoin.com](https://pool.bitcoin.com)
+- [ViaBTC](https://pool.viabtc.com)
+- [AntPool](https://www.antpool.com)
+- [BTC.com](https://pool.btc.com)
+
 
 ### Block Explorers
 
@@ -122,7 +131,7 @@
 
 ### Android
 
-- [bitcoin.com](https://play.google.com/store/apps/details?id=com.bitcoin.mwallet)
+- [Bitcoin.com](https://play.google.com/store/apps/details?id=com.bitcoin.mwallet)
 - [BTC.com](https://play.google.com/store/apps/details?id=com.blocktrail.mywallet)
 
 ### IPhone
