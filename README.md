@@ -79,13 +79,17 @@
 
 ### Real Time Stats
 
+- [Johoe's Mempool Stats](https://jochen-hoenicke.de/queue/cash)
+- [Cash vs Core](https://cashvscore.com)
 - [Coin Dance](https://cash.coin.dance/blocks)
+- [Coin Salad](https://coinsalad.com/bitcoincash/blocks)
 - [Node Counter](http://nodecounter.com)
 - [fork.lol](http://fork.lol)
 - [CoinMarketCap](https://coinmarketcap.com) 
 
 ### Projects Using Bitcoin Cash
 
+- [Reddit Tipping Bot](https://np.reddit.com/r/tippr/wiki/index)
 - [Yours Network](Yours Network: https://twitter.com/ryanxcharles/status/900083785726910465)
 - [Rocketr](https://twitter.com/RocketrNet/status/895318285457137664)
 - [Coinify](https://news.coinify.com/coinify-merchants-accept-bitcoin-cash)
