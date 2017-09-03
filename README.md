@@ -15,8 +15,12 @@
 
 - [Resources](#resources)
   - [Official](#official-resources)
-  - [Community](#community)
   - [Podcasts](#podcasts)
+
+- [Community](#community)
+  - [Reddit](#reddit)
+  - [Twitter](#twitter)
+
 - [Wallets](#wallets)
   - [Full Nodes](#full-nodes)
   - [Desktop](#desktop-wallets)
@@ -32,15 +36,21 @@
 - [White Paper](https://www.bitcoin.com/bitcoin.pdf)
 - [Website](https://www.bitcoincash.org/)
 
-### Community
-
-- [Reddit Bitcoin Cash](https://www.reddit.com/r/Bitcoincash/)
-- [Reddit r/btc](https://www.reddit.com/r/btc/)
-
 ### Podcasts
 
 - [The Crypto Show - Daniel Krawisz, Dimitry Murashchik, Mike Joy and PH Madore](https://letstalkbitcoin.com/blog/post/the-crypto-show-daniel-krawisz-dimitry-murashchik-mike-joy-and-ph-madore)
 - [Around The Coin #141](https://soundcloud.com/aroundthecoin/fintech-podcast-episode-141-bitcoin-classic-versus-bitcoin-cash-the-fork-ahead)
+
+# Community
+
+### Reddit
+
+- [Reddit Bitcoin Cash](https://www.reddit.com/r/Bitcoincash/)
+- [Reddit r/btc](https://www.reddit.com/r/btc/)
+
+### Twitter
+
+- [Bitcoin Cash Fans](https://twitter.com/BitcoinCashFans)
 
 # Wallets
 
