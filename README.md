@@ -16,6 +16,7 @@
 - [Resources](#resources)
   - [Official](#official-resources)
   - [Podcasts](#podcasts)
+  - [High Volume Exchanges](#high-volume-exchanges)
 
 - [Community](#community)
   - [Reddit](#reddit)
@@ -31,6 +32,7 @@
   - [Hardware](#hardware-wallets)
   - [Paper](#paper-wallets)
 
+
 # Resources
 
 ### Official Resources
@@ -43,6 +45,19 @@
 - [The Crypto Show - Daniel Krawisz, Dimitry Murashchik, Mike Joy and PH Madore](https://letstalkbitcoin.com/blog/post/the-crypto-show-daniel-krawisz-dimitry-murashchik-mike-joy-and-ph-madore)
 - [Around The Coin #141](https://soundcloud.com/aroundthecoin/fintech-podcast-episode-141-bitcoin-classic-versus-bitcoin-cash-the-fork-ahead)
 
+### High Volume Exchanges ([source](https://coinmarketcap.com/currencies/bitcoin-cash/#markets))
+
+- [Bithumb](https://www.bithumb.com)
+- [HitBTC](https://hitbtc.com/exchange/BCC-to-BTC)
+- [Korbit](https://www.korbit.co.kr)
+- [Coinone](https://coinone.co.kr/exchange/trade/bch)
+- [Bitfinex](https://www.bitfinex.com/trading/BCHUSD)
+- [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-BCC)
+- [Poloniex](https://poloniex.com/exchange/#btc_bch)
+- [Huobi](https://www.huobi.pro/exchange/bcc_btc)
+- [Yunbi](https://yunbi.com/markets/bcccny)
+- [BTER](https://bter.com/trade/bcc_cny)
+
 # Community
 
 ### Reddit
@@ -53,6 +68,8 @@
 ### Twitter
 
 - [Bitcoin Cash Fans](https://twitter.com/BitcoinCashFans)
+
+
 
 # Wallets
 
