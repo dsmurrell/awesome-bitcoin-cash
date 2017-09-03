@@ -90,7 +90,7 @@
 ### Projects Using Bitcoin Cash
 
 - [Reddit Tipping Bot](https://np.reddit.com/r/tippr/wiki/index)
-- [Yours Network](Yours Network: https://twitter.com/ryanxcharles/status/900083785726910465)
+- [Yours Network](https://twitter.com/ryanxcharles/status/900083785726910465)
 - [Rocketr](https://twitter.com/RocketrNet/status/895318285457137664)
 - [Coinify](https://news.coinify.com/coinify-merchants-accept-bitcoin-cash)
 - [Coin Mix](https://www.reddit.com/r/btc/comments/6xn6xg/the_first_bitcoin_cash_coin_mixer_beta)
