@@ -9,6 +9,8 @@
 
 > A curated list of awesome things related to Bitcoin Cash
 
+> Important: although caution will be taken to accept only reputable resources, the maintainer of this list takes no responsibility for any loss of funds from using any resource on this list. If you suspect a list item to be a scam, please report it and it will be investigated.
+
 # Contents
 
 - [Resources](#resources)
