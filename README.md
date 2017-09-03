@@ -15,12 +15,13 @@
 
 - [Resources](#resources)
   - [Official](#official-resources)
-  - [Podcasts](#podcasts)
   - [High Volume Exchanges](#high-volume-exchanges)
+  - [Block Explorers](#block-explorers)
 
 - [Community](#community)
   - [Reddit](#reddit)
   - [Twitter](#twitter)
+  - [Podcasts](#podcasts)
 
 - [Wallets](#wallets)
   - [Full Nodes](#full-nodes)
@@ -40,13 +41,7 @@
 - [White Paper](https://www.bitcoin.com/bitcoin.pdf)
 - [Website](https://www.bitcoincash.org/)
 
-### Podcasts
-
-- [The Crypto Show - Daniel Krawisz, Dimitry Murashchik, Mike Joy and PH Madore](https://letstalkbitcoin.com/blog/post/the-crypto-show-daniel-krawisz-dimitry-murashchik-mike-joy-and-ph-madore)
-- [Around The Coin #141](https://soundcloud.com/aroundthecoin/fintech-podcast-episode-141-bitcoin-classic-versus-bitcoin-cash-the-fork-ahead)
-
 ### High Volume Exchanges
-
 ([source](https://coinmarketcap.com/currencies/bitcoin-cash/#markets))
 
 - [Bithumb](https://www.bithumb.com)
@@ -60,6 +55,15 @@
 - [Yunbi](https://yunbi.com/markets/bcccny)
 - [BTER](https://bter.com/trade/bcc_cny)
 
+### Block Explorers
+
+- [Blockchair](https://blockchair.com/bitcoin-cash/blocks)
+- [Blocktrail](https://www.blocktrail.com/BCC)
+- [BitInfoCharts](https://bitinfocharts.com/bitcoin%20cash)
+- [BlockDozer](http://blockdozer.com/insight)
+- [Bitcoin.com](https://cashexplorer.bitcoin.com)
+- [BCCBlock](https://bccblock.info)
+
 # Community
 
 ### Reddit
@@ -71,9 +75,13 @@
 
 - [Bitcoin Cash Fans](https://twitter.com/BitcoinCashFans)
 
+### Podcasts
 
+- [The Crypto Show - Daniel Krawisz, Dimitry Murashchik, Mike Joy and PH Madore](https://letstalkbitcoin.com/blog/post/the-crypto-show-daniel-krawisz-dimitry-murashchik-mike-joy-and-ph-madore)
+- [Around The Coin #141](https://soundcloud.com/aroundthecoin/fintech-podcast-episode-141-bitcoin-classic-versus-bitcoin-cash-the-fork-ahead)
 
 # Wallets
+([first source](https://bitcoin.stackexchange.com/questions/58968/which-wallets-support-bitcoin-cash))
 
 ## Full Nodes
 
