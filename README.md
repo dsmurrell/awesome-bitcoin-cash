@@ -11,12 +11,17 @@
 
 > Important: although caution will be taken to accept only reputable resources, the maintainer of this list takes no responsibility for any loss of funds from using any resource on this list. If you suspect a list item to be a scam, please report it and it will be investigated.
 
+> "Unlike the previous situation in Bitcoin, there is no one single development team for Bitcoin Cash.  There are now multiple independent teams of developers. This decentralization of development (and decentralization of software implementations) is a much needed and important step forward." - https://www.bitcoincash.org/
+
 # Contents
 
 - [Resources](#resources)
   - [Official](#official-resources)
   - [High Volume Exchanges](#high-volume-exchanges)
   - [Block Explorers](#block-explorers)
+  - [Real Time Stats](#real-time-stats)
+  - [Projects Using Bitcoin Cash](#projects-using-bitcoin-cash)
+  - [Informative](#informative)
 
 - [Community](#community)
   - [Reddit](#reddit)
@@ -63,6 +68,26 @@
 - [BlockDozer](http://blockdozer.com/insight)
 - [Bitcoin.com](https://cashexplorer.bitcoin.com)
 - [BCCBlock](https://bccblock.info)
+- [Hashes (API)](https://hashes.download/#api)
+
+### Real Time Stats
+
+- [Coin Dance](https://cash.coin.dance/blocks)
+- [Node Counter](http://nodecounter.com)
+- [fork.lol](http://fork.lol)
+- [CoinMarketCap](https://coinmarketcap.com) 
+
+### Projects Using Bitcoin Cash
+
+- [Yours Network](Yours Network: https://twitter.com/ryanxcharles/status/900083785726910465)
+- [Rocketr](https://twitter.com/RocketrNet/status/895318285457137664)
+- [Coinify](https://news.coinify.com/coinify-merchants-accept-bitcoin-cash)
+- [Coin Mix](https://www.reddit.com/r/btc/comments/6xn6xg/the_first_bitcoin_cash_coin_mixer_beta)
+
+### Informative
+
+- [What is Bitcoin Cash](https://blockgeeks.com/guides/what-is-bitcoin-cash)
+- [Bitcoin Cash Recovery](https://blog.btc.com/how-to-recover-your-trapped-bitcoin-cash-from-other-wallets-24b929543f26)
 
 # Community
 
