@@ -65,6 +65,7 @@
 
 - [Shapeshift](https://shapeshift.io)
 - [Changelly](https://changelly.com)
+- [Evercoin](https://evercoin.com)
 
 ### Marketplaces
 
