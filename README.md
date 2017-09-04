@@ -109,6 +109,7 @@
 ### Informative
 
 - [What is Bitcoin Cash](https://blockgeeks.com/guides/what-is-bitcoin-cash)
+- [Bitcoin Cash Roadmap](https://chrispacia.wordpress.com/2017/09/01/the-bitcoin-cash-roadmap)
 - [Bitcoin Cash Recovery](https://blog.btc.com/how-to-recover-your-trapped-bitcoin-cash-from-other-wallets-24b929543f26)
 
 # Community
