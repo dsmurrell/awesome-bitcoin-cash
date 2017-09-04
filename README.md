@@ -142,6 +142,7 @@
 ## Desktop Wallets
 
 - [Electron Cash](https://www.electroncash.org)
+- [Exodus Eden](https://www.exodus.io/eden) (Linux/Mac/Windows)
 - [Chris Pacia](https://github.com/cpacia/BitcoinCash-Wallet/releases)
 
 ## Mobile Wallets
