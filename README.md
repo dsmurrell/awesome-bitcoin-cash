@@ -17,6 +17,7 @@
   - [Official](#official-resources)
   - [High Volume Exchanges](#high-volume-exchanges)
   - [Coin Converters](#coin-converters)
+  - [Marketplaces](#marketplaces)
   - [Mining Pools](#mining-pools)
   - [Block Explorers](#block-explorers)
   - [Real Time Stats](#real-time-stats)
@@ -64,6 +65,10 @@
 
 - [Shapeshift](https://shapeshift.io)
 - [Changelly](https://changelly.com)
+
+### Marketplaces
+
+- [bitcion.de](https://www.bitcoin.de)
 
 ### Mining Pools
 
