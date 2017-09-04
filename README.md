@@ -162,7 +162,7 @@
 ## Hardware Wallets
 
 - [Ledger](https://www.ledgerwallet.com)
-- [Trezor](https://trezor.io/)
+- [Trezor](https://trezor.io)
 
 ## Paper Wallets
 
