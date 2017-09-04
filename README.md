@@ -69,7 +69,7 @@
 
 ### Marketplaces
 
-- [bitcion.de](https://www.bitcoin.de)
+- [bitcoin.de](https://www.bitcoin.de)
 
 ### Mining Pools
 
