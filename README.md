@@ -16,7 +16,7 @@
 - [Resources](#resources)
   - [Official](#official-resources)
   - [High Volume Exchanges](#high-volume-exchanges)
-  - [Coin Converters](#coin-converters)
+  - [Coin Converters](#coin-converters)
   - [Mining Pools](#mining-pools)
   - [Block Explorers](#block-explorers)
   - [Real Time Stats](#real-time-stats)
