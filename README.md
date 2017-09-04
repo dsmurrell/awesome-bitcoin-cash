@@ -16,6 +16,7 @@
 - [Resources](#resources)
   - [Official](#official-resources)
   - [High Volume Exchanges](#high-volume-exchanges)
+  - [Coin Converters](#coin-converters)
   - [Mining Pools](#mining-pools)
   - [Block Explorers](#block-explorers)
   - [Real Time Stats](#real-time-stats)
@@ -58,6 +59,11 @@
 - [Huobi](https://www.huobi.pro/exchange/bcc_btc)
 - [Yunbi](https://yunbi.com/markets/bcccny)
 - [BTER](https://bter.com/trade/bcc_cny)
+
+### Coin Converters
+
+- [Shapeshift](https://shapeshift.io)
+- [Changelly](https://changelly.com)
 
 ### Mining Pools
 
