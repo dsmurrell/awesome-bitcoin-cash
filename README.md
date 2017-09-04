@@ -167,6 +167,10 @@
 
 - [Bitcoin Paper Wallet](https://bitcoinpaperwallet.com)
 - [Bitaddress](https://www.bitaddress.org)
+- [Cashaddress](https://www.cashaddress.org)
+
+# Tools
+- [SecretCoin](https://secretco.in)
 
 <br/>
 <br/>
