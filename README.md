@@ -65,10 +65,11 @@
 
 - [Shapeshift](https://shapeshift.io)
 - [Changelly](https://changelly.com)
+- [Evercoin](https://evercoin.com)
 
 ### Marketplaces
 
-- [bitcion.de](https://www.bitcoin.de)
+- [bitcoin.de](https://www.bitcoin.de)
 
 ### Mining Pools
 
@@ -142,6 +143,7 @@
 
 - [Electron Cash](https://www.electroncash.org)
 - [Chris Pacia](https://github.com/cpacia/BitcoinCash-Wallet/releases)
+- [Bitcoin.com](https://www.bitcoin.com/choose-your-wallet/bitcoin-com-wallet)
 
 ## Mobile Wallets
 
@@ -162,11 +164,13 @@
 ## Hardware Wallets
 
 - [Ledger](https://www.ledgerwallet.com)
+- [Trezor](https://trezor.io)
 
 ## Paper Wallets
 
 - [Bitcoin Paper Wallet](https://bitcoinpaperwallet.com)
 - [Bitaddress](https://www.bitaddress.org)
+- [Bitcoin.com Paper Wallet](https://tools.bitcoin.com/paper-wallet/)
 - [Cashaddress](https://www.cashaddress.org)
 
 # Tools
