@@ -168,6 +168,7 @@
 
 ## Paper Wallets
 
+- [Cash Address](https://cashaddress.org)
 - [Bitcoin Paper Wallet](https://bitcoinpaperwallet.com)
 - [Bitaddress](https://www.bitaddress.org)
 - [Bitcoin.com Paper Wallet](https://tools.bitcoin.com/paper-wallet/)
