@@ -143,6 +143,7 @@
 
 - [Electron Cash](https://www.electroncash.org)
 - [Chris Pacia](https://github.com/cpacia/BitcoinCash-Wallet/releases)
+- [Bitcoin.com](https://www.bitcoin.com/choose-your-wallet/bitcoin-com-wallet)
 
 ## Mobile Wallets
 
@@ -169,6 +170,7 @@
 
 - [Bitcoin Paper Wallet](https://bitcoinpaperwallet.com)
 - [Bitaddress](https://www.bitaddress.org)
+- [Bitcoin.com Paper Wallet](https://tools.bitcoin.com/paper-wallet/)
 
 <br/>
 <br/>
