@@ -151,6 +151,7 @@
 
 - [Bitcoin.com](https://play.google.com/store/apps/details?id=com.bitcoin.mwallet)
 - [BTC.com](https://play.google.com/store/apps/details?id=com.blocktrail.mywallet)
+- [Coinomi](https://coinomi.com/)
 
 ### IPhone
 
