@@ -98,7 +98,8 @@
 - [Coin Salad](https://coinsalad.com/bitcoincash/blocks)
 - [Node Counter](http://nodecounter.com)
 - [fork.lol](http://fork.lol)
-- [CoinMarketCap](https://coinmarketcap.com) 
+- [CoinMarketCap](https://coinmarketcap.com)
+- [What The Fork?](http://fork.watch)
 
 ### Projects Using Bitcoin Cash
 
