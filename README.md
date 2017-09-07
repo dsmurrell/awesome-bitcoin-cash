@@ -170,6 +170,7 @@
 ## Web Wallets
 
 - [BTC.com](https://bcc-wallet.btc.com)
+- [TSBW](https://tsbw.io/bcc/)
 
 ## Hardware Wallets
 
