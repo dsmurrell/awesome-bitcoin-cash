@@ -1,6 +1,6 @@
 New to GitHub? No problem! 
 
-Contributing to the README.md file here is accomplished very easily by following [these](https://help.github.com/articles/editing-files-in-another-user-s-repository) instructions.
+Contributing to the README.md file here is done extremely easily by following [these](https://help.github.com/articles/editing-files-in-another-user-s-repository) instructions.
 
 # Contributing Guide
 
