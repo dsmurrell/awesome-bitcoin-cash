@@ -20,6 +20,7 @@
   - [Marketplaces](#marketplaces)
   - [Mining Pools](#mining-pools)
   - [Block Explorers](#block-explorers)
+  - [APIs](#apis)
   - [Real Time Stats](#real-time-stats)
   - [Projects Using Bitcoin Cash](#projects-using-bitcoin-cash)
   - [Informative](#informative)
@@ -87,8 +88,12 @@
 - [BlockDozer](http://blockdozer.com/insight)
 - [Bitcoin.com](https://cashexplorer.bitcoin.com)
 - [BCCBlock](https://bccblock.info)
-- [Hashes (API)](https://hashes.download/#api)
 - [BlockExplorer](https://bitcoincash.blockexplorer.com)
+
+### APIs
+
+- [Bitcoin Cash](https://www.explorer.cash)
+- [Hashes](https://hashes.download/#api)
 
 ### Real Time Stats
 
