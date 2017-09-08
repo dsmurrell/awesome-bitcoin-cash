@@ -18,6 +18,7 @@
   - [High Volume Exchanges](#high-volume-exchanges)
   - [Coin Converters](#coin-converters)
   - [Marketplaces](#marketplaces)
+  - [Gambling](#gambling)
   - [Mining Pools](#mining-pools)
   - [Block Explorers](#block-explorers)
   - [APIs](#apis)
@@ -72,13 +73,16 @@
 
 - [bitcoin.de](https://www.bitcoin.de)
 
+### Gambling
+
+- [Satoshi Bones](https://bitzillions.com/satoshibones/bcc)
+
 ### Mining Pools
 
 - [Bitcoin.com](https://pool.bitcoin.com)
 - [ViaBTC](https://pool.viabtc.com)
 - [AntPool](https://www.antpool.com)
 - [BTC.com](https://pool.btc.com)
-
 
 ### Block Explorers
 
