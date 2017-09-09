@@ -135,6 +135,7 @@
 ### Twitter
 
 - [Bitcoin Cash Fans](https://twitter.com/BitcoinCashFans)
+- [CryptoScatman](https://twitter.com/bsmith12251960)
 
 ### Podcasts
 
