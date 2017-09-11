@@ -191,6 +191,7 @@
 
 # Tools
 - [SecretCoin](https://secretco.in)
+- [Simple Pay](http://www.bitcoinc.com.au/spay/)
 
 <br/>
 <br/>
