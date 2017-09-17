@@ -30,6 +30,7 @@
   - [Reddit](#reddit)
   - [Twitter](#twitter)
   - [Podcasts](#podcasts)
+  - [Design](#design)
 
 - [Wallets](#wallets)
   - [Full Nodes](#full-nodes)
@@ -141,6 +142,10 @@
 
 - [The Crypto Show - Daniel Krawisz, Dimitry Murashchik, Mike Joy and PH Madore](https://letstalkbitcoin.com/blog/post/the-crypto-show-daniel-krawisz-dimitry-murashchik-mike-joy-and-ph-madore)
 - [Around The Coin #141](https://soundcloud.com/aroundthecoin/fintech-podcast-episode-141-bitcoin-classic-versus-bitcoin-cash-the-fork-ahead)
+
+### Design
+
+- [Logo and Branding](https://forum.bitcoin.com/bitcoin-cash-f119/bitcoin-cash-logo-branding-t48603.html)
 
 # Wallets
 ([first source](https://bitcoin.stackexchange.com/questions/58968/which-wallets-support-bitcoin-cash))
