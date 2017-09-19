@@ -15,6 +15,7 @@
 
 - [Resources](#resources)
   - [Official](#official-resources)
+  - [Faucets](#faucets)
   - [High Volume Exchanges](#high-volume-exchanges)
   - [Coin Converters](#coin-converters)
   - [Marketplaces](#marketplaces)
@@ -49,6 +50,10 @@
 
 - [White Paper](https://www.bitcoin.com/bitcoin.pdf)
 - [Website](https://www.bitcoincash.org/)
+
+### Faucets
+
+- [Blocksize Party](http://blocksize.party)
 
 ### High Volume Exchanges
 ([source](https://coinmarketcap.com/currencies/bitcoin-cash/#markets))
