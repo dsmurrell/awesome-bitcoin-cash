@@ -185,7 +185,7 @@
 
 ## Web Wallets
 
-- [BTC.com](https://bcc-wallet.btc.com)
+- Please add here
 
 ## Hardware Wallets
 
