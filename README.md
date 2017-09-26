@@ -32,6 +32,7 @@
   - [Twitter](#twitter)
   - [Podcasts](#podcasts)
   - [Design](#design)
+  - [Coding Bounties](#bounties)
 
 - [Wallets](#wallets)
   - [Full Nodes](#full-nodes)
@@ -151,6 +152,11 @@
 ### Design
 
 - [Logo and Branding](https://forum.bitcoin.com/bitcoin-cash-f119/bitcoin-cash-logo-branding-t48603.html)
+
+### Bounties
+
+- [Allow BountySource to accept Bitcoin Cash](https://www.bountysource.com/issues/49027183-add-bitcoin-cash-support-to-bountysource)
+- [Allow bcoin to work with Bitcoin Cash](https://www.bountysource.com/issues/49027183-add-bitcoin-cash-support-to-bountysource)
 
 # Wallets
 ([first source](https://bitcoin.stackexchange.com/questions/58968/which-wallets-support-bitcoin-cash))
