@@ -84,6 +84,7 @@
 
 - [Satoshi Bones](https://bitzillions.com/satoshibones/bcc)
 - [Satoshi Dice](https://satoshidice.com)
+- [Betcoin](https://www.betcoin.ag/best-bitcoin-cash-casino)
 
 ### Mining Pools
 
