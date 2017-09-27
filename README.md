@@ -83,6 +83,7 @@
 ### Gambling
 
 - [Satoshi Bones](https://bitzillions.com/satoshibones/bcc)
+- [Satoshi Dice](https://satoshidice.com)
 
 ### Mining Pools
 
@@ -116,6 +117,7 @@
 - [fork.lol](http://fork.lol)
 - [CoinMarketCap](https://coinmarketcap.com)
 - [What The Fork?](http://fork.watch)
+- [Cash Drop](https://porlybe.github.io/cashdrop/) - Real time Bitcoin Cash mempool visualizer
 
 ### Projects Using Bitcoin Cash
 
@@ -143,6 +145,7 @@
 
 - [Bitcoin Cash Fans](https://twitter.com/BitcoinCashFans)
 - [CryptoScatman](https://twitter.com/bsmith12251960)
+- [useBitcoinCash](https://twitter.com/useBitcoinCash)
 
 ### Podcasts
 
