@@ -83,6 +83,7 @@
 ### Gambling
 
 - [Satoshi Bones](https://bitzillions.com/satoshibones/bcc)
+- [Satoshi Dice] (https://satoshidice.com)
 
 ### Mining Pools
 
