@@ -134,6 +134,17 @@
 - [Bitcoin Cash Recovery Blog Post](https://blog.btc.com/how-to-recover-your-trapped-bitcoin-cash-from-other-wallets-24b929543f26)
 - [Bitcoin Cash Recovery 1 Minute Video](https://www.youtube.com/watch?v=i7--pmPa11E)
 
+# Merchants
+
+- [Steam Game Keys](https://steamgamekeys.com/)
+- [DasVPS](http://www.dasvps.com/) - VPS Services
+- [Living Room of Satoshi](http://www.livingroomofsatoshi.com/?sc=bch) - Pay bills with BCC
+- [Negash Apparell and Footwear](http://www.negash83.com/)
+- [BitVapes](https://bitvapes.com/) - Vaporizers
+- [Cryptartica](http://www.cryptartica.com/) - Bitcoin Cash merchandise
+- [Keys4Coins](http://www.keys4coins.com/) - Game keys, gift cards
+- [Keyois](http://www.keyois.com/) - Time capsules
+
 # Community
 
 ### Reddit
