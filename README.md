@@ -134,6 +134,7 @@
 - [Bitcoin Cash Roadmap](https://chrispacia.wordpress.com/2017/09/01/the-bitcoin-cash-roadmap)
 - [Bitcoin Cash Recovery Blog Post](https://blog.btc.com/how-to-recover-your-trapped-bitcoin-cash-from-other-wallets-24b929543f26)
 - [Bitcoin Cash Recovery 1 Minute Video](https://www.youtube.com/watch?v=i7--pmPa11E)
+- [The Accept Bitcoin Cash Initiative](https://acceptbitcoin.cash)
 
 # Merchants
 
