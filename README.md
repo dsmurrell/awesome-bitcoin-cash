@@ -149,6 +149,7 @@
 - [CryptoHabit](https://cryptohabit.com/) - Cryptocurrency apparel
 - [Hodlmonkey](http://hodlmonkey.com/) - Cryptocurrency apparel
 - [KawaiiCrypto](https://kawaiicrypto.com/) - Cryptocurrency stickers
+- [Greenhorn Crypto](https://greenhorncrypto.com/) - Hardware wallets
 
 # Community
 
