@@ -146,6 +146,9 @@
 - [Cryptartica](http://www.cryptartica.com/) - Bitcoin Cash merchandise
 - [Keys4Coins](http://www.keys4coins.com/) - Game keys, gift cards
 - [Keyois](http://www.keyois.com/) - Time capsules
+- [CryptoHabit](https://cryptohabit.com/) - Cryptocurrency apparel
+- [Hodlmonkey](http://hodlmonkey.com/) - Cryptocurrency apparel
+- [KawaiiCrypto](https://kawaiicrypto.com/) - Cryptocurrency stickers
 
 # Community
 
