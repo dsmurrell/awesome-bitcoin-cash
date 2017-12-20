@@ -150,6 +150,7 @@
 - [Hodlmonkey](http://hodlmonkey.com/) - Cryptocurrency apparel
 - [KawaiiCrypto](https://kawaiicrypto.com/) - Cryptocurrency stickers
 - [Greenhorn Crypto](https://greenhorncrypto.com/) - Hardware wallets
+- [SporeStack](https://sporestack.com/) - Ephemeral-by-design, API-driven VPS infrastructure
 
 # Community
 
