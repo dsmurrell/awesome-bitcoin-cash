@@ -55,20 +55,33 @@
 ### Faucets
 
 - [Blocksize Party](http://blocksize.party)
+- [Learn Bitcoin Cash](https://learnbitcoin.cash/)
 
 ### High Volume Exchanges
 ([source](https://coinmarketcap.com/currencies/bitcoin-cash/#markets))
 
-- [Bithumb](https://www.bithumb.com)
-- [HitBTC](https://hitbtc.com/exchange/BCC-to-BTC)
-- [Korbit](https://www.korbit.co.kr)
-- [Coinone](https://coinone.co.kr/exchange/trade/bch)
-- [Bitfinex](https://www.bitfinex.com/trading/BCHUSD)
-- [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-BCC)
-- [Poloniex](https://poloniex.com/exchange/#btc_bch)
-- [Huobi](https://www.huobi.pro/exchange/bcc_btc)
-- [Yunbi](https://yunbi.com/markets/bcccny)
-- [BTER](https://bter.com/trade/bcc_cny)
+- [Bithumb](https://www.bithumb.com) (Korea)
+- [HitBTC](https://hitbtc.com/exchange/BCC-to-BTC) (Worldwide)
+- [Korbit](https://www.korbit.co.kr) (Korea)
+- [Coinone](https://coinone.co.kr/exchange/trade/bch) (Korea)
+- [Bitfinex](https://www.bitfinex.com/trading/BCHUSD) (Worldwide)
+- [Bittrex](https://bittrex.com/Market/Index?MarketName=BTC-BCC) (Worldwide)
+- [Poloniex](https://poloniex.com/exchange/#btc_bch) (Worldwide)
+- [Huobi](https://www.huobi.pro/exchange/bcc_btc) (China)
+- [Yunbi](https://yunbi.com/markets/bcccny) (China)
+- [BTER](https://bter.com/trade/bcc_cny) (China)
+- [Coinbase](https://coinbase.com) (USA & some others)
+- [GDAX](https://gdax.com) (USA)
+- [Bitstamp](https://bitstamp.net) (Europe and USD trades)
+- [OKEX](https://okex.com) (Worldwide)
+- [QuadrigaCX](https://quadrigacx.com) (Canada)
+- [BTCBOX](https://www.btcbox.co.jp/market-bcc.html) (Japan)
+- [Bitflyer](https://bitflyer.com) (Japan)
+- [Quoine](https://quoine.com) (Japan)
+- [Kraken](https://kraken.com) (USA)
+- [Bitcoin Vietnam](https://bitcoin.vn/) (Vietnam)
+- [Bx.in.th](https://bx.in.th/THB/BCH/) (Thailand)
+- [SurBTC](https://surbtc.com/) (Latin America)
 
 ### Coin Converters
 
@@ -76,9 +89,15 @@
 - [Changelly](https://changelly.com)
 - [Evercoin](https://evercoin.com)
 
+### ATMs
+
+- [BitcoinPlug](http://www.newsbtc.com/2017/11/03/bitcoinplug-will-enable-bitcoin-cash-los-angeles-atms-soon/) (Los Angeles)
+- [Genesis Block](https://www.genesisblockhk.com/) (Hong Kong)
+
 ### Marketplaces
 
-- [bitcoin.de](https://www.bitcoin.de)
+- [bitcoin.de](https://www.bitcoin.de) (Germany)
+- [Local Bitcoin Cash](https://www.localbitcoincash.org/) - Worldwide p2p marketplace
 
 ### Gambling
 
@@ -92,6 +111,7 @@
 - [ViaBTC](https://pool.viabtc.com)
 - [AntPool](https://www.antpool.com)
 - [BTC.com](https://pool.btc.com)
+- [BTC TOP](https://btc.top)
 
 ### Block Explorers
 
@@ -119,6 +139,7 @@
 - [CoinMarketCap](https://coinmarketcap.com)
 - [What The Fork?](http://fork.watch)
 - [Cash Drop](https://porlybe.github.io/cashdrop/) - Real time Bitcoin Cash mempool visualizer
+- [Txhighway](http://txhighway.com/) - BTC and BCH networks visualized as cars on a highway
 
 ### Projects Using Bitcoin Cash
 
@@ -135,6 +156,7 @@
 - [Bitcoin Cash Recovery Blog Post](https://blog.btc.com/how-to-recover-your-trapped-bitcoin-cash-from-other-wallets-24b929543f26)
 - [Bitcoin Cash Recovery 1 Minute Video](https://www.youtube.com/watch?v=i7--pmPa11E)
 - [The Accept Bitcoin Cash Initiative](https://acceptbitcoin.cash)
+- [Bitcoin.com: Bitcoin Cash is Bitcoin](https://www.bitcoin.com/info/bitcoin-cash-is-bitcoin)
 
 # Merchants
 
@@ -151,19 +173,27 @@
 - [KawaiiCrypto](https://kawaiicrypto.com/) - Cryptocurrency stickers
 - [Greenhorn Crypto](https://greenhorncrypto.com/) - Hardware wallets
 - [SporeStack](https://sporestack.com/) - Ephemeral-by-design, API-driven VPS infrastructure
+- [Shiny Leaf](https://www.shinyleaf.com/promotions/bitcoin-cash-payment/) - Natural bath & body products
+- [Afrigarments](https://afrigarments.com/) - African style clothing
 
 # Community
+
+### The Bitcoin Cash Fund
+
+A community sponsored initiative to promote Bitcoin Cash around the world. [Website Here](https://thebitcoincash.fund).
 
 ### Reddit
 
 - [r/bitcoincash](https://www.reddit.com/r/bitcoincash/)
 - [r/btc](https://www.reddit.com/r/btc/)
+- [Bitcoin.com Forum](https://forum.bitcoin.com)
 
 ### Twitter
 
 - [Bitcoin Cash Fans](https://twitter.com/BitcoinCashFans)
 - [CryptoScatman](https://twitter.com/bsmith12251960)
 - [useBitcoinCash](https://twitter.com/useBitcoinCash)
+- [Bitcoin Cash Fund](https://twitter.com/bitcoincashfund)
 
 ### Podcasts
 
@@ -204,15 +234,14 @@
 - [BTC.com](https://play.google.com/store/apps/details?id=com.blocktrail.mywallet)
 - [Coinomi](https://coinomi.com/)
 
-### IPhone
+### iPhone
 
 - [BTC.com](https://itunes.apple.com/us/app/btc-com-bitcoin-wallet/id1019614423)
 - [Bitcoin.com](https://itunes.apple.com/us/app/bitcoin-wallet-by-bitcoin-com/id1252903728)
 
-
 ## Web Wallets
 
-- Please add here
+- [Blockchain.info](https://blockchain.com)
 
 ## Hardware Wallets
 
