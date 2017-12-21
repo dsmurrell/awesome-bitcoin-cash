@@ -195,6 +195,16 @@ A community sponsored initiative to promote Bitcoin Cash around the world. [Webs
 - [useBitcoinCash](https://twitter.com/useBitcoinCash)
 - [Bitcoin Cash Fund](https://twitter.com/bitcoincashfund)
 
+### Local Meetups
+
+- [Helsinki](https://www.meetup.com/meetup-group-bOLoWLkO)
+- [London](https://www.meetup.com/Bitcoin-Cash-London-Meetup)
+- [Oslo](https://www.meetup.com/Oslo-Bitcoin-Meetup/)
+- [San Francisco](https://www.meetup.com/San-Francisco-Bitcoin-Cash/)
+- [Seattle](https://www.meetup.com/Seattle-Bitcoin-Cash-Meetup/)
+- [Seoul](https://www.meetup.com/Seoul-Bitcoin-Cash-Meetup/)
+- [Tokyo](https://www.meetup.com/Tokyo-Bitcoin-Cash-Meetup-Group/)
+
 ### Podcasts
 
 - [The Crypto Show - Daniel Krawisz, Dimitry Murashchik, Mike Joy and PH Madore](https://letstalkbitcoin.com/blog/post/the-crypto-show-daniel-krawisz-dimitry-murashchik-mike-joy-and-ph-madore)
