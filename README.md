@@ -79,12 +79,15 @@
 ### Marketplaces
 
 - [bitcoin.de](https://www.bitcoin.de)
+- [yours](https://www.yours.org)
 
 ### Gambling
 
 - [Satoshi Bones](https://bitzillions.com/satoshibones/bcc)
 - [Satoshi Dice](https://satoshidice.com)
 - [Betcoin](https://www.betcoin.ag/best-bitcoin-cash-casino)
+- [Safe Dice](https://safedice.com)
+- [Lucky Games](https://luckygames.io)
 
 ### Mining Pools
 
@@ -135,6 +138,7 @@
 - [Bitcoin Cash Recovery Blog Post](https://blog.btc.com/how-to-recover-your-trapped-bitcoin-cash-from-other-wallets-24b929543f26)
 - [Bitcoin Cash Recovery 1 Minute Video](https://www.youtube.com/watch?v=i7--pmPa11E)
 - [The Accept Bitcoin Cash Initiative](https://acceptbitcoin.cash)
+- [Learn Bitcoin Cash](https://learnbitcoin.cash)
 
 # Merchants
 
@@ -204,10 +208,11 @@
 - [BTC.com](https://play.google.com/store/apps/details?id=com.blocktrail.mywallet)
 - [Coinomi](https://coinomi.com/)
 
-### IPhone
+### iPhone
 
 - [BTC.com](https://itunes.apple.com/us/app/btc-com-bitcoin-wallet/id1019614423)
 - [Bitcoin.com](https://itunes.apple.com/us/app/bitcoin-wallet-by-bitcoin-com/id1252903728)
+- [Copay](https://itunes.apple.com/us/app/copay/id951330296)
 
 
 ## Web Wallets
