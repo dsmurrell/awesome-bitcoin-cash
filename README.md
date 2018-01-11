@@ -105,8 +105,9 @@
 
 ### APIs
 
-- [Bitcoin Cash](https://www.explorer.cash)
-- [Hashes](https://hashes.download/#api)
+- [Explorer.Cash *(coming soon)*](https://www.explorer.cash)
+- [Blockchair](https://github.com/Blockchair/Blockchair.Support/blob/master/API.md)
+- [BTC.com](https://bch.btc.com/api-doc#API)
 
 ### Real Time Stats
 
