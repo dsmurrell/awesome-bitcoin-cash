@@ -140,7 +140,6 @@
 # Merchants
 
 - [Steam Game Keys](https://steamgamekeys.com/)
-- [DasVPS](http://www.dasvps.com/) - VPS Services
 - [Living Room of Satoshi](http://www.livingroomofsatoshi.com/?sc=bch) - Pay bills with BCC
 - [Negash Apparell and Footwear](http://www.negash83.com/)
 - [BitVapes](https://bitvapes.com/) - Vaporizers
