@@ -260,7 +260,9 @@ A community sponsored initiative to promote Bitcoin Cash around the world. [Webs
 
 ## Web Wallets
 
+- [BTC.com](https://bcc-wallet.btc.com)
 - [Blockchain.info](https://blockchain.com)
+- [TSBW](https://tsbw.io/bcc/)
 
 ## Hardware Wallets
 
