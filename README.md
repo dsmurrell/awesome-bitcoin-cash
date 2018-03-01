@@ -98,12 +98,15 @@
 
 - [bitcoin.de](https://www.bitcoin.de) (Germany)
 - [Local Bitcoin Cash](https://www.localbitcoincash.org/) - Worldwide p2p marketplace
+- [bitcoin.de](https://www.bitcoin.de)
 
 ### Gambling
 
 - [Satoshi Bones](https://bitzillions.com/satoshibones/bcc)
 - [Satoshi Dice](https://satoshidice.com)
 - [Betcoin](https://www.betcoin.ag/best-bitcoin-cash-casino)
+- [Safe Dice](https://safedice.com)
+- [Lucky Games](https://luckygames.io)
 
 ### Mining Pools
 
@@ -125,8 +128,9 @@
 
 ### APIs
 
-- [Bitcoin Cash](https://www.explorer.cash)
-- [Hashes](https://hashes.download/#api)
+- [Explorer.Cash *(coming soon)*](https://www.explorer.cash)
+- [Blockchair](https://github.com/Blockchair/Blockchair.Support/blob/master/API.md)
+- [BTC.com](https://bch.btc.com/api-doc#API)
 
 ### Real Time Stats
 
@@ -157,11 +161,11 @@
 - [Bitcoin Cash Recovery 1 Minute Video](https://www.youtube.com/watch?v=i7--pmPa11E)
 - [The Accept Bitcoin Cash Initiative](https://acceptbitcoin.cash)
 - [Bitcoin.com: Bitcoin Cash is Bitcoin](https://www.bitcoin.com/info/bitcoin-cash-is-bitcoin)
+- [Learn Bitcoin Cash](https://learnbitcoin.cash)
 
 # Merchants
 
 - [Steam Game Keys](https://steamgamekeys.com/)
-- [DasVPS](http://www.dasvps.com/) - VPS Services
 - [Living Room of Satoshi](http://www.livingroomofsatoshi.com/?sc=bch) - Pay bills with BCC
 - [Negash Apparell and Footwear](http://www.negash83.com/)
 - [BitVapes](https://bitvapes.com/) - Vaporizers
@@ -177,6 +181,10 @@
 - [Afrigarments](https://afrigarments.com/) - African style clothing
 
 # Community
+
+### Yours.org
+  
+Get paid for content you post! [Website Here](https://www.yours.org)
 
 ### The Bitcoin Cash Fund
 
@@ -248,6 +256,7 @@ A community sponsored initiative to promote Bitcoin Cash around the world. [Webs
 
 - [BTC.com](https://itunes.apple.com/us/app/btc-com-bitcoin-wallet/id1019614423)
 - [Bitcoin.com](https://itunes.apple.com/us/app/bitcoin-wallet-by-bitcoin-com/id1252903728)
+- [Copay](https://itunes.apple.com/us/app/copay/id951330296)
 
 ## Web Wallets
 
