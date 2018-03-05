@@ -276,9 +276,14 @@ A community sponsored initiative to promote Bitcoin Cash around the world. [Webs
 - [Bitcoin.com Paper Wallet](https://tools.bitcoin.com/paper-wallet/)
 - [Cashaddress](https://www.cashaddress.org)
 
+## SMS Wallets
+
+- [Cointext](https://cointext.io/)
+
 # Tools
 - [SecretCoin](https://secretco.in)
 - [Simple Pay](http://www.bitcoinc.com.au/spay/)
+- [Flowee](https://github.com/floweethehub/hub)
 
 <br/>
 <br/>
