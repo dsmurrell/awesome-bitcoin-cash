@@ -122,7 +122,7 @@
 - [Blocktrail](https://www.blocktrail.com/BCC)
 - [BitInfoCharts](https://bitinfocharts.com/bitcoin%20cash)
 - [BlockDozer](http://blockdozer.com/insight)
-- [Bitcoin.com](https://cashexplorer.bitcoin.com)
+- [Bitcoin.com](https://explorer.bitcoin.com)
 - [BCCBlock](https://bccblock.info)
 - [BlockExplorer](https://bitcoincash.blockexplorer.com)
 
