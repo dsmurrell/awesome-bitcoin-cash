@@ -162,6 +162,7 @@
 - [The Accept Bitcoin Cash Initiative](https://acceptbitcoin.cash)
 - [Bitcoin.com: Bitcoin Cash is Bitcoin](https://www.bitcoin.com/info/bitcoin-cash-is-bitcoin)
 - [Learn Bitcoin Cash](https://learnbitcoin.cash)
+- [Marco Coino Merchant Directory](https://www.coinline.co.nz/marco-coino/)
 
 # Merchants
 
