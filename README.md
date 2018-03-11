@@ -11,10 +11,14 @@
 
 > Important: although caution will be taken to accept only reputable resources, the maintainer of this list takes no responsibility for any loss of funds from using any resource on this list. If you suspect a list item to be a scam, please report it and it will be investigated.
 
+> Want to contribute something yourself? Read the [guide](https://github.com/dsmurrell/awesome-bitcoin-cash/blob/master/CONTRIBUTING.md).
+
 # Contents
 
 - [Resources](#resources)
   - [Official](#official-resources)
+  - [Informative](#informative)
+  - [Payment Processors](#payment-processors)
   - [Point of Sale Systems](#point-of-sale-systems)
   - [Faucets](#faucets)
   - [High Volume Exchanges](#high-volume-exchanges)
@@ -25,25 +29,26 @@
   - [Block Explorers](#block-explorers)
   - [APIs](#apis)
   - [Real Time Stats](#real-time-stats)
-  - [Projects Using Bitcoin Cash](#projects-using-bitcoin-cash)
-  - [Informative](#informative)
+  - [Projects](#projects)
 
 - [Community](#community)
+  - [Bitcoin Cash](#bitcoin-cash)
   - [Reddit](#reddit)
   - [Twitter](#twitter)
+  - [Meetups](#local-meetups)
   - [Podcasts](#podcasts)
   - [Design](#design)
-  - [Coding Bounties](#bounties)
+  - [Bounties](#bounties)
+  - [Tipping](#tipping)
 
 - [Wallets](#wallets)
   - [Full Nodes](#full-nodes)
   - [Desktop](#desktop-wallets)
   - [Mobile](#mobile-wallets)
-    - [Android](#android)
-    - [IPhone](#iphone)
   - [Web](#web-wallets)
   - [Hardware](#hardware-wallets)
   - [Paper](#paper-wallets)
+  - [SMS/Text](#SMS-wallets)
 
 
 # Resources
@@ -53,12 +58,30 @@
 - [White Paper](https://www.bitcoin.com/bitcoin.pdf)
 - [Website](https://www.bitcoincash.org/)
 
+### Informative
+
+- [What is Bitcoin Cash](https://blockgeeks.com/guides/what-is-bitcoin-cash)
+- [Bitcoin Cash Roadmap](https://chrispacia.wordpress.com/2017/09/01/the-bitcoin-cash-roadmap)
+- [Bitcoin Cash Recovery Blog Post](https://blog.btc.com/how-to-recover-your-trapped-bitcoin-cash-from-other-wallets-24b929543f26)
+- [Bitcoin Cash Recovery 1 Minute Video](https://www.youtube.com/watch?v=i7--pmPa11E)
+- [Bitcoin.com: Bitcoin Cash is Bitcoin](https://www.bitcoin.com/info/bitcoin-cash-is-bitcoin)
+- [Learn Bitcoin Cash](https://learnbitcoin.cash)
+
+### Payment Processors
+
+- [BitPay](https://bitpay.com/tour)
+- [CoinPayments](https://www.coinpayments.net)
+- [Rocketr](https://rocketr.net)
+- [Coinify](https://coinify.com)
+- [piixPay](https://www.piixpay.com/web)
+
 ### Point of Sale Systems
 
 - [MiniPOS](https://www.minipos.cash/)
 - [CheddrPOS](https://pos.cheddr.cash/launch.html)
 - [pyxpubPOS](https://pyxpub.io/)
 - [moosh.io](https://moosh.io/wallet.html)
+- [Simple Pay](http://www.bitcoinc.com.au/spay)
 
 ### Faucets
 
@@ -66,7 +89,6 @@
 - [Learn Bitcoin Cash](https://learnbitcoin.cash/)
 
 ### High Volume Exchanges
-([source](https://coinmarketcap.com/currencies/bitcoin-cash/#markets))
 
 - [Bithumb](https://www.bithumb.com) (Korea)
 - [HitBTC](https://hitbtc.com/exchange/BCC-to-BTC) (Worldwide)
@@ -96,17 +118,17 @@
 - [Shapeshift](https://shapeshift.io)
 - [Changelly](https://changelly.com)
 - [Evercoin](https://evercoin.com)
+- [Nexchange.io](https://nexchange.io)
 
 ### ATMs
 
 - [BitcoinPlug](http://www.newsbtc.com/2017/11/03/bitcoinplug-will-enable-bitcoin-cash-los-angeles-atms-soon/) (Los Angeles)
 - [Genesis Block](https://www.genesisblockhk.com/) (Hong Kong)
 
-### Marketplaces
+### Brokerages
 
 - [bitcoin.de](https://www.bitcoin.de) (Germany)
 - [Local Bitcoin Cash](https://www.localbitcoincash.org/) - Worldwide p2p marketplace
-- [bitcoin.de](https://www.bitcoin.de)
 
 ### Gambling
 
@@ -115,6 +137,7 @@
 - [Betcoin](https://www.betcoin.ag/best-bitcoin-cash-casino)
 - [Safe Dice](https://safedice.com)
 - [Lucky Games](https://luckygames.io)
+- [Mount Betmore](https://mtbetmore.com/)
 
 ### Mining Pools
 
@@ -136,7 +159,6 @@
 
 ### APIs
 
-- [Explorer.Cash *(coming soon)*](https://www.explorer.cash)
 - [Blockchair](https://github.com/Blockchair/Blockchair.Support/blob/master/API.md)
 - [BTC.com](https://bch.btc.com/api-doc#API)
 
@@ -152,29 +174,20 @@
 - [What The Fork?](http://fork.watch)
 - [Cash Drop](https://porlybe.github.io/cashdrop/) - Real time Bitcoin Cash mempool visualizer
 - [Txhighway](http://txhighway.com/) - BTC and BCH networks visualized as cars on a highway
+- [BCH Node Map](https://bchnodes.online/)
 
-### Projects Using Bitcoin Cash
-
-- [Reddit Tipping Bot](https://np.reddit.com/r/tippr/wiki/index)
-- [Yours Network](https://twitter.com/ryanxcharles/status/900083785726910465)
-- [Rocketr](https://twitter.com/RocketrNet/status/895318285457137664)
-- [Coinify](https://news.coinify.com/coinify-merchants-accept-bitcoin-cash)
-- [Coin Mix](https://www.reddit.com/r/btc/comments/6xn6xg/the_first_bitcoin_cash_coin_mixer_beta)
-
-### Informative
-
-- [What is Bitcoin Cash](https://blockgeeks.com/guides/what-is-bitcoin-cash)
-- [Bitcoin Cash Roadmap](https://chrispacia.wordpress.com/2017/09/01/the-bitcoin-cash-roadmap)
-- [Bitcoin Cash Recovery Blog Post](https://blog.btc.com/how-to-recover-your-trapped-bitcoin-cash-from-other-wallets-24b929543f26)
-- [Bitcoin Cash Recovery 1 Minute Video](https://www.youtube.com/watch?v=i7--pmPa11E)
-- [The Accept Bitcoin Cash Initiative](https://acceptbitcoin.cash)
-- [Bitcoin.com: Bitcoin Cash is Bitcoin](https://www.bitcoin.com/info/bitcoin-cash-is-bitcoin)
-- [Learn Bitcoin Cash](https://learnbitcoin.cash)
+### Projects
+ 
+- [Coin Mix](https://coinmix.to)
+- [Counterparty Cash](https://counterparty.cash)
+- [SecretCoin](https://secretco.in)
+- [Flowee](http://www.flowee.org)
 
 # Merchants
 
 ### Directories
 
+- [The Accept Bitcoin Cash Initiative](https://acceptbitcoin.cash)
 - [Marco Coino Merchant Directory](https://www.coinline.co.nz/marco-coino/)
 
 ### Indiviual
@@ -196,26 +209,23 @@
 
 # Community
 
-### Yours.org
-  
-Get paid for content you post! [Website Here](https://www.yours.org)
+### Bitcoin Cash
 
-### The Bitcoin Cash Fund
-
-A community sponsored initiative to promote Bitcoin Cash around the world. [Website Here](https://thebitcoincash.fund).
+- [Yours.org](https://www.yours.org)
+- [Bitcoin Cash Fund](https://www.thebitcoincash.fund)
+- [Bitcoin.com Forum](https://forum.bitcoin.com)
 
 ### Reddit
 
 - [r/bitcoincash](https://www.reddit.com/r/bitcoincash/)
 - [r/btc](https://www.reddit.com/r/btc/)
-- [Bitcoin.com Forum](https://forum.bitcoin.com)
 
 ### Twitter
 
+- [Bitcoin Cash News](https://twitter.com/BTCNewsUpdates)
 - [Bitcoin Cash Fans](https://twitter.com/BitcoinCashFans)
 - [CryptoScatman](https://twitter.com/bsmith12251960)
 - [useBitcoinCash](https://twitter.com/useBitcoinCash)
-- [Bitcoin Cash Fund](https://twitter.com/bitcoincashfund)
 
 ### Local Meetups
 
@@ -277,66 +287,67 @@ A community sponsored initiative to promote Bitcoin Cash around the world. [Webs
 
 ### Bounties
 
-- [Allow BountySource to accept Bitcoin Cash](https://www.bountysource.com/issues/49027183-add-bitcoin-cash-support-to-bountysource)
-- [Allow bcoin to work with Bitcoin Cash](https://www.bountysource.com/issues/49027183-add-bitcoin-cash-support-to-bountysource)
+- [ChainTip GitHub Bounties](https://github.com/chaintip/bounties/blob/master/README.md#available-bounties)
+- [Donate to allow BountySource to accept Bitcoin Cash](https://www.bountysource.com/issues/49027183-add-bitcoin-cash-support-to-bountysource)
+
+### Tipping
+
+- [ChainTip](https://www.chaintip.org/) (on-chain tipping - reddit, GitHub)
+- [Tippr](https://np.reddit.com/r/tippr/wiki/index) (reddit, Twitter)
+- [tipmebch](https://github.com/abrkn/tipmebch) (Telegram)
 
 # Wallets
-([first source](https://bitcoin.stackexchange.com/questions/58968/which-wallets-support-bitcoin-cash))
 
-## Full Nodes
+### Full Nodes
 
-- [Bitcoin Unlimited Cash Edition](https://www.bitcoinunlimited.info)
+- [Bitcoin Unlimited](https://www.bitcoinunlimited.info/download)
 - [Bitcoin ABC](https://www.bitcoinabc.org)
-- [Bitcoin Classic](https://bitcoinclassic.com)
 - [Bitcoin XT](https://bitcoinxt.software)
+- [Bitprim](https://www.bitprim.org)
 
-## Desktop Wallets
+### Desktop Wallets
 
-- [Electron Cash](https://www.electroncash.org)
-- [Exodus Eden](https://www.exodus.io/eden) (Linux/Mac/Windows)
-- [Chris Pacia](https://github.com/cpacia/BitcoinCash-Wallet/releases)
 - [Bitcoin.com](https://www.bitcoin.com/choose-your-wallet/bitcoin-com-wallet)
+- [BitPay](https://bitpay.com/wallet)
+- [Electron Cash](https://www.electroncash.org)
+- [Exodus](https://www.exodus.io/releases)
+- [Copay](https://copay.io)
+- [Chris Pacia](https://github.com/cpacia/BitcoinCash-Wallet/releases)
 
-## Mobile Wallets
+### Mobile Wallets
 
-### Android
+- [Bitcoin.com](https://wallet.bitcoin.com)
+- [BitPay](https://bitpay.com/wallet)
+- [coinbase](https://www.coinbase.com/mobile)
+- [Copay](https://copay.io)
+- [Edge](https://edgesecure.co)
+- [BTC.com](https://wallet.btc.com)
+- [Mobi](https://www.mobi.me)
+- [Unit](https://www.unitwallet.co)
+- [Coinomi](https://coinomi.com)
 
-- [Bitcoin.com](https://play.google.com/store/apps/details?id=com.bitcoin.mwallet)
-- [BTC.com](https://play.google.com/store/apps/details?id=com.blocktrail.mywallet)
-- [Coinomi](https://coinomi.com/)
-
-### iPhone
-
-- [BTC.com](https://itunes.apple.com/us/app/btc-com-bitcoin-wallet/id1019614423)
-- [Bitcoin.com](https://itunes.apple.com/us/app/bitcoin-wallet-by-bitcoin-com/id1252903728)
-- [Copay](https://itunes.apple.com/us/app/copay/id951330296)
-
-## Web Wallets
+### Web Wallets
 
 - [BTC.com](https://bcc-wallet.btc.com)
 - [Blockchain.info](https://blockchain.com)
 - [TSBW](https://tsbw.io/bcc/)
 
-## Hardware Wallets
+### Hardware Wallets
 
 - [Ledger](https://www.ledgerwallet.com)
 - [Trezor](https://trezor.io)
+- [KeepKey](https://www.keepkey.com)
 
-## Paper Wallets
+### Paper Wallets
 
 - [Bitcoin Paper Wallet](https://bitcoinpaperwallet.com)
 - [Bitaddress](https://www.bitaddress.org)
 - [Bitcoin.com Paper Wallet](https://tools.bitcoin.com/paper-wallet/)
 - [Cashaddress](https://www.cashaddress.org)
 
-## SMS Wallets
+### SMS Wallets
 
 - [Cointext](https://cointext.io/)
-
-# Tools
-- [SecretCoin](https://secretco.in)
-- [Simple Pay](http://www.bitcoinc.com.au/spay/)
-- [Flowee](https://github.com/floweethehub/hub)
 
 <br/>
 <br/>
