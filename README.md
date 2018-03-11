@@ -162,9 +162,14 @@
 - [The Accept Bitcoin Cash Initiative](https://acceptbitcoin.cash)
 - [Bitcoin.com: Bitcoin Cash is Bitcoin](https://www.bitcoin.com/info/bitcoin-cash-is-bitcoin)
 - [Learn Bitcoin Cash](https://learnbitcoin.cash)
-- [Marco Coino Merchant Directory](https://www.coinline.co.nz/marco-coino/)
 
 # Merchants
+
+### Directories
+
+- [Marco Coino Merchant Directory](https://www.coinline.co.nz/marco-coino/)
+
+### Indiviual
 
 - [Steam Game Keys](https://steamgamekeys.com/)
 - [Living Room of Satoshi](http://www.livingroomofsatoshi.com/?sc=bch) - Pay bills with BCC
