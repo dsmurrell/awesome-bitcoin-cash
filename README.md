@@ -15,6 +15,7 @@
 
 - [Resources](#resources)
   - [Official](#official-resources)
+  - [Point of Sales Systems](#pos-systems)
   - [Faucets](#faucets)
   - [High Volume Exchanges](#high-volume-exchanges)
   - [Coin Converters](#coin-converters)
@@ -51,6 +52,13 @@
 
 - [White Paper](https://www.bitcoin.com/bitcoin.pdf)
 - [Website](https://www.bitcoincash.org/)
+
+### Point of Sales Systems
+
+- [MiniPOS](https://www.minipos.cash/)
+- [CheddrPOS](https://pos.cheddr.cash/launch.html)
+- [pyxpubPOS](https://pyxpub.io/)
+- [moosh.io](https://moosh.io/wallet.html)
 
 ### Faucets
 
