@@ -15,41 +15,22 @@
 
 # Contents
 
-- [Resources](#resources)
-  - [Official](#official-resources)
-  - [Informative](#informative)
-  - [Payment Processors](#payment-processors)
-  - [Point of Sale Systems](#point-of-sale-systems)
-  - [Faucets](#faucets)
-  - [High Volume Exchanges](#high-volume-exchanges)
-  - [Coin Converters](#coin-converters)
-  - [Marketplaces](#marketplaces)
-  - [Gambling](#gambling)
-  - [Mining Pools](#mining-pools)
-  - [Block Explorers](#block-explorers)
-  - [APIs](#apis)
-  - [Real Time Stats](#real-time-stats)
-  - [Projects](#projects)
-
-- [Community](#community)
-  - [Bitcoin Cash](#bitcoin-cash)
-  - [Reddit](#reddit)
-  - [Twitter](#twitter)
-  - [Meetups](#local-meetups)
-  - [Podcasts](#podcasts)
-  - [Design](#design)
-  - [Bounties](#bounties)
-  - [Tipping](#tipping)
-
-- [Wallets](#wallets)
-  - [Full Nodes](#full-nodes)
-  - [Desktop](#desktop-wallets)
-  - [Mobile](#mobile-wallets)
-  - [Web](#web-wallets)
-  - [Hardware](#hardware-wallets)
-  - [Paper](#paper-wallets)
-  - [SMS/Text](#SMS-wallets)
-
+[**Resources**](#resources) | [**Community**](#community) | [**Wallets**](#wallets)
+--- | --- | ---
+[Official](#official-resources) | [Bitcoin Cash](#bitcoin-cash) | [Full Nodes](#full-nodes)
+[Informative](#informative) | [Reddit](#reddit) | [Desktop](#desktop-wallets)
+[Payment Processors](#payment-processors) | [Twitter](#twitter) | [Mobile](#mobile-wallets)
+[Point of Sale Systems](#point-of-sale-systems) | [Meetups](#local-meetups) | [Web](#web-wallets)
+[Faucets](#faucets) | [Podcasts](#podcasts) | [Hardware](#hardware-wallets)
+[High Volume Exchanges](#high-volume-exchanges) | [Design](#design) | [Paper](#paper-wallets)
+[Coin Converters](#coin-converters) | [Bounties](#bounties) | [SMS/Text](#sms-wallets)
+[Brokerages](#brokerages) | [Tipping](#tipping)
+[Gambling](#gambling)
+[Mining Pools](#mining-pools)
+[Block Explorers](#block-explorers)
+[APIs](#apis)
+[Real Time Stats](#real-time-stats)
+[Projects](#projects)
 
 # Resources
 
