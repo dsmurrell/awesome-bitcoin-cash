@@ -168,6 +168,7 @@
 
 ### Directories
 
+- [Cryptonize It](https://cryptonize.it)
 - [The Accept Bitcoin Cash Initiative](https://acceptbitcoin.cash)
 - [Marco Coino Merchant Directory](https://www.coinline.co.nz/marco-coino/)
 
