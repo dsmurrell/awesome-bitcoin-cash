@@ -15,10 +15,10 @@
 
 # Contents
 
-[**Resources**](#resources) | [**Community**](#community) | [**Wallets**](#wallets)
---- | --- | ---
-[Official](#official-resources) | [Bitcoin Cash](#bitcoin-cash) | [Full Nodes](#full-nodes)
-[Informative](#informative) | [Reddit](#reddit) | [Desktop](#desktop-wallets)
+[**Resources**](#resources) | [**Community**](#community) | [**Wallets**](#wallets) | [**Merchants**](#merchants)
+--- | --- | --- | ---
+[Official](#official-resources) | [Bitcoin Cash](#bitcoin-cash) | [Full Nodes](#full-nodes) | [Directories](#directories)
+[Informative](#informative) | [Reddit](#reddit) | [Desktop](#desktop-wallets) | [Individual](#individual)
 [Payment Processors](#payment-processors) | [Twitter](#twitter) | [Mobile](#mobile-wallets)
 [Point of Sale Systems](#point-of-sale-systems) | [Meetups](#local-meetups) | [Web](#web-wallets)
 [Faucets](#faucets) | [Podcasts](#podcasts) | [Hardware](#hardware-wallets)
@@ -164,31 +164,6 @@
 - [SecretCoin](https://secretco.in)
 - [Flowee](http://www.flowee.org)
 
-# Merchants
-
-### Directories
-
-- [Cryptonize It](https://cryptonize.it)
-- [The Accept Bitcoin Cash Initiative](https://acceptbitcoin.cash)
-- [Marco Coino Merchant Directory](https://www.coinline.co.nz/marco-coino/)
-
-### Indiviual
-
-- [Steam Game Keys](https://steamgamekeys.com/)
-- [Living Room of Satoshi](http://www.livingroomofsatoshi.com/?sc=bch) - Pay bills with BCC
-- [Negash Apparell and Footwear](http://www.negash83.com/)
-- [BitVapes](https://bitvapes.com/) - Vaporizers
-- [Cryptartica](http://www.cryptartica.com/) - Bitcoin Cash merchandise
-- [Keys4Coins](http://www.keys4coins.com/) - Game keys, gift cards
-- [Keyois](http://www.keyois.com/) - Time capsules
-- [CryptoHabit](https://cryptohabit.com/) - Cryptocurrency apparel
-- [Hodlmonkey](http://hodlmonkey.com/) - Cryptocurrency apparel
-- [KawaiiCrypto](https://kawaiicrypto.com/) - Cryptocurrency stickers
-- [Greenhorn Crypto](https://greenhorncrypto.com/) - Hardware wallets
-- [SporeStack](https://sporestack.com/) - Ephemeral-by-design, API-driven VPS infrastructure
-- [Shiny Leaf](https://www.shinyleaf.com/promotions/bitcoin-cash-payment/) - Natural bath & body products
-- [Afrigarments](https://afrigarments.com/) - African style clothing
-
 # Community
 
 ### Bitcoin Cash
@@ -330,6 +305,32 @@
 ### SMS Wallets
 
 - [Cointext](https://cointext.io/)
+
+# Merchants
+
+### Directories
+
+- [Cryptonize It](https://cryptonize.it)
+- [The Accept Bitcoin Cash Initiative](https://acceptbitcoin.cash)
+- [Marco Coino Merchant Directory](https://www.coinline.co.nz/marco-coino)
+- [OpenBazaar items for BCH](https://blockbooth.com/search/?search_currencies=BCH)
+
+### Individual
+
+- [Steam Game Keys](https://steamgamekeys.com/)
+- [Living Room of Satoshi](http://www.livingroomofsatoshi.com/?sc=bch) - Pay bills with BCC
+- [Negash Apparell and Footwear](http://www.negash83.com/)
+- [BitVapes](https://bitvapes.com/) - Vaporizers
+- [Cryptartica](http://www.cryptartica.com/) - Bitcoin Cash merchandise
+- [Keys4Coins](http://www.keys4coins.com/) - Game keys, gift cards
+- [Keyois](http://www.keyois.com/) - Time capsules
+- [CryptoHabit](https://cryptohabit.com/) - Cryptocurrency apparel
+- [Hodlmonkey](http://hodlmonkey.com/) - Cryptocurrency apparel
+- [KawaiiCrypto](https://kawaiicrypto.com/) - Cryptocurrency stickers
+- [Greenhorn Crypto](https://greenhorncrypto.com/) - Hardware wallets
+- [SporeStack](https://sporestack.com/) - Ephemeral-by-design, API-driven VPS infrastructure
+- [Shiny Leaf](https://www.shinyleaf.com/promotions/bitcoin-cash-payment/) - Natural bath & body products
+- [Afrigarments](https://afrigarments.com/) - African style clothing
 
 <br/>
 <br/>
