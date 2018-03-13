@@ -186,52 +186,70 @@
 
 ### Local Meetups
 
-- [Amsterdam, NETHERLANDS](https://www.meetup.com/Amsterdam-Bitcoin-Cash-Meetup/)
-- [Auckland, NEW ZEALAND](https://www.meetup.com/Auckland-Bitcoin-Cash-Meetup/)
-- [Barcelona, SPAIN](https://www.meetup.com/Barcelona-Bitcoin-Cash)
-- [Beijing, CHINA](https://www.meetup.com/Beijing-Bitcoin-Cash-Meetup/)
-- [Berlin, GERMANY](https://www.meetup.com/Bitcoin-Cash-Berlin-Meetup/)
+#### South America
+
 - [Bogota, COLOMBIA](https://www.meetup.com/Bitcoin-Cash-Colombia/)
-- [Boston, USA](https://www.meetup.com/Boston-Area-Bitcoin-Cash-Meetup/)
-- [Brisbane, AUSTRALIA](https://www.meetup.com/Brisbane-Bitcoin-Cash-Meetup)
-- [Cancun, MEXICO](https://www.meetup.com/Bitcoin-Cash-Cancun)
-- [Christchurch, NEW ZEALAND](https://www.meetup.com/Christchurch-Bitcoin-Cash-Meetup/)
-- [Daytona Beach, USA](https://www.meetup.com/Bitcoin-Cash-Florida-Meetup/)
-- [Denver, USA](https://www.meetup.com/Denver-Bitcoin-Cash-Meetup/)
-- [Gulf Coast, USA](https://www.meetup.com/BitcoinCashGulfCoast/)
-- [Helsinki, FINLAND](https://www.meetup.com/meetup-group-bOLoWLkO/)
-- [Hong Kong](https://www.meetup.com/Blockchain-Entrepreneurs-Coders-Fun/events/246106119/)
-- [Johannesburg, SOUTH AFRICA](https://www.meetup.com/Johannesburg-Bitcoin-Cash-Meetup)
-- [Kuala Lumpur, MALAYSIA](https://www.meetup.com/Kuala-Lumpur-Bitcoin-Cash-Meetup/)
-- [Lagos, NIGERIA](https://www.meetup.com/Bitcoin-Cash-Meetup-Nigeria/)
-- [Laguna Beach, USA](https://www.meetup.com/bitcoin-cash/)
-- [Las Vegas, USA](https://www.meetup.com/Las-Vegas-Henderson-Bitcoin-Meetup)
-- [London, UK](https://www.meetup.com/Bitcoin-Cash-London-Meetup/)
 - [Medellin, COLOMBIA](https://www.meetup.com/BitcoinCash-Medellin/)
+- [Sao Paolo, BRAZIL](https://www.meetup.com/Meetup-de-Bitcoin-Cash-Sao-Paulo/)
+- [Mérida, VENEZUELA](https://www.meetup.com/Bitcoin-Cash-Venezuela/)
+- [Cancun, MEXICO](https://www.meetup.com/Bitcoin-Cash-Cancun)
+- [Rio De Janeiro, BRAZIL](https://www.meetup.com/meetup-group-QoXRZiIB/)
+- [Villahermosa, MEXICO](https://www.meetup.com/Bitcoin-Cash-Villahermosa/)
+
+#### Africa
+
+- [Lagos, NIGERIA](https://www.meetup.com/Bitcoin-Cash-Meetup-Nigeria/)
+- [Johannesburg, SOUTH AFRICA](https://www.meetup.com/Johannesburg-Bitcoin-Cash-Meetup)
+
+#### Oceania
+
+- [Brisbane, AUSTRALIA](https://www.meetup.com/Brisbane-Bitcoin-Cash-Meetup)
+- [Auckland, NEW ZEALAND](https://www.meetup.com/Auckland-Bitcoin-Cash-Meetup/)
+- [Christchurch, NEW ZEALAND](https://www.meetup.com/Christchurch-Bitcoin-Cash-Meetup/)
+- [Sydney, AUSTRALIA](https://www.eventbrite.com/e/sydney-bitcoin-cash-meetup-tickets-42339538700)
 - [Melbourne, AUSTRALIA](https://www.meetup.com/St-Kilda-New-Technology-Meetup)
-- [Milano, ITALY](https://www.meetup.com/Bitcoin-Cash-Milano/)
+- [Perth, AUSTRALIA](https://www.meetup.com/Bitcoin-Cash-in-Perth-Meetup/)
+
+#### Asia
+
+- [Kuala Lumpur, MALAYSIA](https://www.meetup.com/Kuala-Lumpur-Bitcoin-Cash-Meetup/)
+- [Beijing, CHINA](https://www.meetup.com/Beijing-Bitcoin-Cash-Meetup/)
 - [Nizhny Novgorod, RUSSIA](https://www.meetup.com/Nizhny-Novgorod-Разработка-ПО-Meetup)
-- [Orange County, USA]( https://www.meetup.com/Orange-County-Bitcoin-Cash-Meetup/)
+- [Tokyo, JAPAN](https://www.meetup.com/Tokyo-Bitcoin-Cash-Meetup-Group/)
+- [Hong Kong](https://www.meetup.com/Blockchain-Entrepreneurs-Coders-Fun/events/246106119/)
+- [Pune, INDIA](https://www.meetup.com/Bitcoin-cash-local-meetup/)
+- [Seoul, SOUTH KOREA](https://www.meetup.com/Seoul-Bitcoin-Cash-Meetup/)
+- [Tel-Aviv, ISRAEL](https://www.meetup.com/BitcoinCash-Israel/)
+
+
+#### Europe
+
+- [London, UK](https://www.meetup.com/Bitcoin-Cash-London-Meetup/)
+- [Berlin, GERMANY](https://www.meetup.com/Bitcoin-Cash-Berlin-Meetup/)
+- [Helsinki, FINLAND](https://www.meetup.com/meetup-group-bOLoWLkO/)
 - [Oslo, NORWAY](https://www.meetup.com/Oslo-Bitcoin-Meetup/)
 - [Paris, FRANCE](https://www.meetup.com/fr-FR/Meetup-Bitcoin-Cash-Paris/)
-- [Perth, AUSTRALIA](https://www.meetup.com/Bitcoin-Cash-in-Perth-Meetup/)
-- [Pune, INDIA](https://www.meetup.com/Bitcoin-cash-local-meetup/)
-- [Rio De Janeiro, BRAZIL](https://www.meetup.com/meetup-group-QoXRZiIB/)
-- [San Francisco, USA](https://www.meetup.com/San-Francisco-Bitcoin-Cash/)
-- [Sao Paolo, BRAZIL](https://www.meetup.com/Meetup-de-Bitcoin-Cash-Sao-Paulo/)
-- [Seattle, USA](https://www.meetup.com/Seattle-Bitcoin-Cash-Meetup/)
-- [Seoul, SOUTH KOREA](https://www.meetup.com/Seoul-Bitcoin-Cash-Meetup/)
-- [Silicon Valley, USA](https://www.meetup.com/Silicon-Valley-Bitcoin-Users/)
-- [St. Kitts, SAINT KITTS & NEVIS](https://www.meetup.com/Basseterre-Bitcoin-Meetup/)
-- [Sydney, AUSTRALIA](https://www.eventbrite.com/e/sydney-bitcoin-cash-meetup-tickets-42339538700)
-- [Tel-Aviv, ISRAEL](https://www.meetup.com/BitcoinCash-Israel/)
-- [Tokyo, JAPAN](https://www.meetup.com/Tokyo-Bitcoin-Cash-Meetup-Group/)
-- [Toronto, CANADA](https://www.meetup.com/BitcoinCashToronto)
-- [Vancouver, CANADA](https://www.meetup.com/meetup-group-EBXuwciQ/)
-- [VENEZUELA](https://www.meetup.com/Bitcoin-Cash-Venezuela/)
-- [Villahermosa, MEXICO](https://www.meetup.com/Bitcoin-Cash-Villahermosa/)
-- [Virginia, USA](https://www.meetup.com/Norfolk-Bitcoin-Meetup/)
+- [Barcelona, SPAIN](https://www.meetup.com/Barcelona-Bitcoin-Cash)
+- [Milano, ITALY](https://www.meetup.com/Bitcoin-Cash-Milano/)
 - [Zurich, SWITZERLAND](https://www.meetup.com/Zurich-Bitcoin-Cash-Meetup/)
+- [Amsterdam, NETHERLANDS](https://www.meetup.com/Amsterdam-Bitcoin-Cash-Meetup/)
+
+#### North America
+
+- [Silicon Valley, USA](https://www.meetup.com/Silicon-Valley-Bitcoin-Users/)
+- [Denver, USA](https://www.meetup.com/Denver-Bitcoin-Cash-Meetup/)
+- [Gulf Coast, USA](https://www.meetup.com/BitcoinCashGulfCoast/)
+- [San Francisco, USA](https://www.meetup.com/San-Francisco-Bitcoin-Cash/)
+- [St. Kitts, SAINT KITTS & NEVIS](https://www.meetup.com/Basseterre-Bitcoin-Meetup/)
+- [Boston, USA](https://www.meetup.com/Boston-Area-Bitcoin-Cash-Meetup/)
+- [Daytona Beach, USA](https://www.meetup.com/Bitcoin-Cash-Florida-Meetup/)
+- [Laguna Beach, USA](https://www.meetup.com/bitcoin-cash/)
+- [Orange County, USA]( https://www.meetup.com/Orange-County-Bitcoin-Cash-Meetup/)
+- [Las Vegas, USA](https://www.meetup.com/Las-Vegas-Henderson-Bitcoin-Meetup)
+- [Seattle, USA](https://www.meetup.com/Seattle-Bitcoin-Cash-Meetup/)
+- [Virginia, USA](https://www.meetup.com/Norfolk-Bitcoin-Meetup/)
+- [Vancouver, CANADA](https://www.meetup.com/meetup-group-EBXuwciQ/)
+- [Toronto, CANADA](https://www.meetup.com/BitcoinCashToronto)
 
 ### Podcasts
 
