@@ -191,9 +191,9 @@
 - [Bogota, COLOMBIA](https://www.meetup.com/Bitcoin-Cash-Colombia/)
 - [Medellin, COLOMBIA](https://www.meetup.com/BitcoinCash-Medellin/)
 - [Sao Paolo, BRAZIL](https://www.meetup.com/Meetup-de-Bitcoin-Cash-Sao-Paulo/)
+- [Rio De Janeiro, BRAZIL](https://www.meetup.com/meetup-group-QoXRZiIB/)
 - [Mérida, VENEZUELA](https://www.meetup.com/Bitcoin-Cash-Venezuela/)
 - [Cancun, MEXICO](https://www.meetup.com/Bitcoin-Cash-Cancun)
-- [Rio De Janeiro, BRAZIL](https://www.meetup.com/meetup-group-QoXRZiIB/)
 - [Villahermosa, MEXICO](https://www.meetup.com/Bitcoin-Cash-Villahermosa/)
 
 #### Africa
@@ -204,22 +204,22 @@
 #### Oceania
 
 - [Brisbane, AUSTRALIA](https://www.meetup.com/Brisbane-Bitcoin-Cash-Meetup)
-- [Auckland, NEW ZEALAND](https://www.meetup.com/Auckland-Bitcoin-Cash-Meetup/)
-- [Christchurch, NEW ZEALAND](https://www.meetup.com/Christchurch-Bitcoin-Cash-Meetup/)
 - [Sydney, AUSTRALIA](https://www.eventbrite.com/e/sydney-bitcoin-cash-meetup-tickets-42339538700)
 - [Melbourne, AUSTRALIA](https://www.meetup.com/St-Kilda-New-Technology-Meetup)
 - [Perth, AUSTRALIA](https://www.meetup.com/Bitcoin-Cash-in-Perth-Meetup/)
+- [Auckland, NEW ZEALAND](https://www.meetup.com/Auckland-Bitcoin-Cash-Meetup/)
+- [Christchurch, NEW ZEALAND](https://www.meetup.com/Christchurch-Bitcoin-Cash-Meetup/)
 
 #### Asia
 
-- [Kuala Lumpur, MALAYSIA](https://www.meetup.com/Kuala-Lumpur-Bitcoin-Cash-Meetup/)
-- [Beijing, CHINA](https://www.meetup.com/Beijing-Bitcoin-Cash-Meetup/)
-- [Nizhny Novgorod, RUSSIA](https://www.meetup.com/Nizhny-Novgorod-Разработка-ПО-Meetup)
-- [Tokyo, JAPAN](https://www.meetup.com/Tokyo-Bitcoin-Cash-Meetup-Group/)
-- [Hong Kong](https://www.meetup.com/Blockchain-Entrepreneurs-Coders-Fun/events/246106119/)
-- [Pune, INDIA](https://www.meetup.com/Bitcoin-cash-local-meetup/)
-- [Seoul, SOUTH KOREA](https://www.meetup.com/Seoul-Bitcoin-Cash-Meetup/)
 - [Tel-Aviv, ISRAEL](https://www.meetup.com/BitcoinCash-Israel/)
+- [Nizhny Novgorod, RUSSIA](https://www.meetup.com/Nizhny-Novgorod-Разработка-ПО-Meetup)
+- [Pune, INDIA](https://www.meetup.com/Bitcoin-cash-local-meetup/)
+- [Hong Kong](https://www.meetup.com/Blockchain-Entrepreneurs-Coders-Fun/events/246106119/)
+- [Beijing, CHINA](https://www.meetup.com/Beijing-Bitcoin-Cash-Meetup/)
+- [Kuala Lumpur, MALAYSIA](https://www.meetup.com/Kuala-Lumpur-Bitcoin-Cash-Meetup/)
+- [Seoul, SOUTH KOREA](https://www.meetup.com/Seoul-Bitcoin-Cash-Meetup/)
+- [Tokyo, JAPAN](https://www.meetup.com/Tokyo-Bitcoin-Cash-Meetup-Group/)
 
 
 #### Europe
