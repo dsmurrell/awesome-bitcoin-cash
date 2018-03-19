@@ -171,6 +171,11 @@
 - [Yours.org](https://www.yours.org)
 - [Bitcoin Cash Fund](https://www.thebitcoincash.fund)
 - [Bitcoin.com Forum](https://forum.bitcoin.com)
+- [Bitcoin.com Forum](https://forum.bitcoin.com)
+- [Bitcoin Cash Fund Discord](https://discordapp.com/invite/nkw2UqZ)
+- [Bitcoin Cash Community Discord](https://discordapp.com/invite/27Vxnu4)
+- [Bitcoin Cash Telegram](https://telegram.me/bitcoincashfork)
+- [Bitcoin Cash Developer Workgroups](https://github.com/bitcoincashorg/workgroups)
 
 ### Reddit
 
@@ -182,6 +187,12 @@
 - [Bitcoin Cash News](https://twitter.com/BTCNewsUpdates)
 - [Bitcoin Cash Fans](https://twitter.com/BitcoinCashFans)
 - [CryptoScatman](https://twitter.com/bsmith12251960)
+- [Bitcoin ABC](https://twitter.com/bitcoin_abc)
+- [Bitcoin Unlimited](https://twitter.com/BitcoinUnlimit)
+- [Juan Garavaglia](https://twitter.com/garavagliajuan)
+- [deadalnix](https://twitter.com/deadalnix)
+- [micropresident](https://twitter.com/micropresident)
+- [dgenr8](https://twitter.com/dgenr818)
 - [useBitcoinCash](https://twitter.com/useBitcoinCash)
 
 ### Local Meetups
