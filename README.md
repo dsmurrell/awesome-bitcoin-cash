@@ -63,6 +63,7 @@
 - [pyxpubPOS](https://pyxpub.io/)
 - [moosh.io](https://moosh.io/wallet.html)
 - [Simple Pay](http://www.bitcoinc.com.au/spay)
+- [SimplePOS4BCH](https://github.com/monsterbitar/SPOS4BCH)
 
 ### Faucets
 
@@ -127,6 +128,7 @@
 - [AntPool](https://www.antpool.com)
 - [BTC.com](https://pool.btc.com)
 - [BTC TOP](https://btc.top)
+- [Waterhole](https://bch.waterhole.io)
 
 ### Block Explorers
 
@@ -137,6 +139,7 @@
 - [Bitcoin.com](https://explorer.bitcoin.com)
 - [BCCBlock](https://bccblock.info)
 - [BlockExplorer](https://bitcoincash.blockexplorer.com)
+- [ViaBTC](https://www.viabtc.com/)
 
 ### APIs
 
