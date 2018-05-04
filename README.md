@@ -101,6 +101,7 @@
 - [Changelly](https://changelly.com)
 - [Evercoin](https://evercoin.com)
 - [Nexchange.io](https://nexchange.io)
+- [CoinSwitch.co](https://www.coinswitch.co)
 
 ### ATMs
 
