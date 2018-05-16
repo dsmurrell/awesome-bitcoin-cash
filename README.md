@@ -178,6 +178,8 @@
 - [Bitcoin Cash Fund](https://www.thebitcoincash.fund)
 - [Bitcoin.com Forum](https://forum.bitcoin.com)
 - [Tipcrypto.net](https://tipcrypto.net)
+- [BlockPress](https://blockpress.com)
+- [BCH.gg](https://bch.gg) - URL shortener for networks like Memo & BlockPress
 
 ### Reddit
 
