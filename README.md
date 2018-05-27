@@ -47,6 +47,7 @@
 - [Bitcoin Cash Recovery 1 Minute Video](https://www.youtube.com/watch?v=i7--pmPa11E)
 - [Bitcoin.com: Bitcoin Cash is Bitcoin](https://www.bitcoin.com/info/bitcoin-cash-is-bitcoin)
 - [Learn Bitcoin Cash](https://learnbitcoin.cash)
+- [BitcoinRewards.com: What is Bitcoin Cash? Video](https://www.youtube.com/watch?v=1_GGT_0W0so)
 
 ### Payment Processors
 
@@ -168,6 +169,7 @@
 - [Counterparty Cash](https://counterparty.cash)
 - [SecretCoin](https://secretco.in)
 - [Flowee](http://www.flowee.org)
+- [BitcoinRewards](https://www.bitcoinrewards.com)
 
 # Community
 
