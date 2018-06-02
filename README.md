@@ -69,7 +69,7 @@
 ### Faucets
 
 - [Blocksize Party](http://blocksize.party)
-- [Learn Bitcoin Cash](https://learnbitcoin.cash/)
+- [Learn Bitcoin Cash](https://learnbitcoin.cash/faucet)
 
 ### High Volume Exchanges
 
