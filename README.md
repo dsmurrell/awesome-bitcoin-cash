@@ -2,11 +2,19 @@
 
 # [<img src="https://rawgit.com/dsmurrell/awesome-bitcoin-cash/master/awesome-bitcoin-cash.png">](https://rawgit.com/dsmurrell/awesome-bitcoin-cash)
 
-> A curated list of awesome things related to Bitcoin Cash
+> Carefully curated list of awesome Bitcoin Cash resources.
+
+[Bitcoin Cash](https://www.bitcoincash.org) is the continuation of Satoshi's Bitcoin after the [successful neutering](https://www.youtube.com/watch?v=0BZoKH-hX_o) of BTC's on-chain scaling capability by BlockStream - a for profit company with total control of the Bitcoin Core software repository - the code [run by more than 94% of miners](https://coin.dance/nodes) on the BTC network. 
+
+Bitcoin Cash has:
+
+- Increased the blocksize limit.
+- Removed the harmful 'Replace By Fee' which brings back far more confidence in 0 confirmation transactions. 
+- Added back op-codes required by many services in the ecosystem.
+
+Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awesome-bitcoin-cash/blob/master/CONTRIBUTING.md).
 
 > Important: although caution will be taken to accept only reputable resources, the maintainer of this list takes no responsibility for any loss of funds from using any resource on this list. If you suspect a list item to be a scam, please report it and it will be investigated.
-
-> Want to contribute something yourself? Read the [guide](https://github.com/dsmurrell/awesome-bitcoin-cash/blob/master/CONTRIBUTING.md).
 
 # Contents
 
