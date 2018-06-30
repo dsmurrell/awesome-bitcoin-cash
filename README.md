@@ -59,6 +59,7 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 - [Rocketr](https://rocketr.net)
 - [Coinify](https://coinify.com)
 - [piixPay](https://www.piixpay.com/web)
+- [Cashflow](https://cashflow.fm/)
 
 ### Point of Sale Systems
 
