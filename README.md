@@ -122,6 +122,7 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 
 - [Satoshi Bones](https://bitzillions.com/satoshibones/bcc)
 - [Satoshi Dice](https://satoshidice.com)
+- [Blockchain Poker](https://blockchain.poker/#cash)
 - [Betcoin](https://www.betcoin.ag/best-bitcoin-cash-casino)
 - [Safe Dice](https://safedice.com)
 - [Lucky Games](https://luckygames.io)
