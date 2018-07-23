@@ -167,6 +167,7 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 - [Txhighway](http://txhighway.com/) - BTC and BCH networks visualized as cars on a highway
 - [BCH Node Map](https://bchnodes.online/)
 - [BitListen.Cash](https://bitlisten.cash/) - Visualize and LISTEN to BCH Transactions
+- [Blockmodo](https://blockmodo.com/quotes/BCH) - Realtime streaming Bitcoin Cash prices, news, social posts, and GitHub code checkins.
 
 ### Projects
  
