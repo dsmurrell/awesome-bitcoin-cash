@@ -72,6 +72,7 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 
 ### Faucets
 
+- [Coindis](https://www.wormhole.cash/test/)
 - [Blocksize Party](http://blocksize.party)
 - [Learn Bitcoin Cash](https://learnbitcoin.cash/faucet)
 
