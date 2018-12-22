@@ -181,7 +181,7 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 
 ### Bitcoin Cash
 
-- [Yours.org](https://www.yours.org)
+- [Honest.Cash](https://Honest.Cash)
 - [Memo.cash](https://memo.cash)
 - [Bitcoin Cash Fund](https://www.thebitcoincash.fund)
 - [Bitcoin.com Forum](https://forum.bitcoin.com)
