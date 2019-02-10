@@ -251,6 +251,7 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 - [Milano, ITALY](https://www.meetup.com/Bitcoin-Cash-Milano/)
 - [Zurich, SWITZERLAND](https://www.meetup.com/Zurich-Bitcoin-Cash-Meetup/)
 - [Amsterdam, NETHERLANDS](https://www.meetup.com/Amsterdam-Bitcoin-Cash-Meetup/)
+- [Sofia, Bulgaria](https://www.meetup.com/Bitcoin-Cash-Sofia-Meetup/)
 
 #### North America
 
