@@ -51,6 +51,7 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 - [Bitcoin.com: Bitcoin Cash is Bitcoin](https://www.bitcoin.com/info/bitcoin-cash-is-bitcoin)
 - [Learn Bitcoin Cash](https://learnbitcoin.cash)
 - [BitcoinRewards.com: What is Bitcoin Cash? Video](https://www.youtube.com/watch?v=1_GGT_0W0so)
+- [Bitcoin.com Developer Resources](https://developer.bitcoin.com)
 
 ### Payment Processors
 
@@ -74,6 +75,7 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 
 - [Blocksize Party](http://blocksize.party)
 - [Learn Bitcoin Cash](https://learnbitcoin.cash/faucet)
+- [Testnet Faucet](https://developer.bitcoin.com/faucets/bch/)
 
 ### High Volume Exchanges
 
@@ -152,6 +154,7 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 
 - [Blockchair](https://github.com/Blockchair/Blockchair.Support/blob/master/API.md)
 - [BTC.com](https://bch.btc.com/api-doc#API)
+- [rest.bitcoin.com](https://rest.bitcoin.com/)
 
 ### Real Time Stats
 
@@ -182,13 +185,13 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 
 ### Bitcoin Cash
 
-- [Yours.org](https://www.yours.org)
 - [Memo.cash](https://memo.cash)
 - [Bitcoin Cash Fund](https://www.thebitcoincash.fund)
 - [Bitcoin.com Forum](https://forum.bitcoin.com)
 - [Tipcrypto.net](https://tipcrypto.net)
 - [BlockPress](https://blockpress.com)
 - [BCH.gg](https://bch.gg) - URL shortener for networks like Memo & BlockPress
+- [Honest Cash](https://honest.cash/)
 
 ### Reddit
 
@@ -279,6 +282,7 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 ### Design
 
 - [Logo and Branding](https://forum.bitcoin.com/bitcoin-cash-f119/bitcoin-cash-logo-branding-t48603.html)
+- [Bitcoincash.org Branding](https://www.bitcoincash.org/graphics.html)
 
 ### Bounties
 
@@ -345,6 +349,10 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 ### SMS Wallets
 
 - [Cointext](https://cointext.io/)
+
+### Browser Extension Wallets
+
+- [Badger Wallet](https://badger.bitcoin.com)
 
 # Merchants
 
