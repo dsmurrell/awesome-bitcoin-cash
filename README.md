@@ -180,6 +180,7 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 - [SecretCoin](https://secretco.in)
 - [Flowee](http://www.flowee.org)
 - [BitcoinRewards](https://www.bitcoinrewards.com)
+- [SIGNUP](https://signup.cash) - Non-custodial web-based key signer and social interactions JavaScript Library
 
 # Community
 
