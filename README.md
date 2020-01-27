@@ -310,6 +310,7 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 - [Exodus](https://www.exodus.io/releases)
 - [Copay](https://copay.io)
 - [Chris Pacia](https://github.com/cpacia/BitcoinCash-Wallet/releases)
+- [Cashkey](https://github.com/merwane/cashkey)
 
 ### Mobile Wallets
 
