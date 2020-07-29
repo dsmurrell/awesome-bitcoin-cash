@@ -129,6 +129,7 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 - [Safe Dice](https://safedice.com)
 - [Lucky Games](https://luckygames.io)
 - [Mount Betmore](https://mtbetmore.com/)
+- [Coinsaga](https://www.coinsaga.com/)
 
 ### Mining Pools
 
