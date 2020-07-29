@@ -238,7 +238,7 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 - [Pune, INDIA](https://www.meetup.com/Bitcoin-cash-local-meetup/)
 - [Hong Kong](https://www.meetup.com/Blockchain-Entrepreneurs-Coders-Fun/events/246106119/)
 - [Beijing, CHINA](https://www.meetup.com/Beijing-Bitcoin-Cash-Meetup/)
-- [Kuala Lumpur, MALAYSIA](https://www.meetup.com/Kuala-Lumpur-Bitcoin-Cash-Meetup/)
+- [Kuala Lumpur, MALAYSIA](https://www.meetup.com/KualaLumpurBCH/)
 - [Seoul, SOUTH KOREA](https://www.meetup.com/Seoul-Bitcoin-Cash-Meetup/)
 - [Tokyo, JAPAN](https://www.meetup.com/Tokyo-Bitcoin-Cash-Meetup-Group/)
 
