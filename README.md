@@ -194,6 +194,7 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 - [BlockPress](https://blockpress.com)
 - [BCH.gg](https://bch.gg) - URL shortener for networks like Memo & BlockPress
 - [Honest Cash](https://honest.cash/)
+- [Noise Cash](https://noise.cash/)
 
 ### Reddit
 
