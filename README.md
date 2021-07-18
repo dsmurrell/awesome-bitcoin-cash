@@ -73,7 +73,6 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 
 ### Faucets
 
-- [Blocksize Party](http://blocksize.party)
 - [Learn Bitcoin Cash](https://learnbitcoin.cash/faucet)
 - [Testnet Faucet](https://faucet.fullstack.cash)
 
