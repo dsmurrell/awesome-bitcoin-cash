@@ -75,7 +75,7 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 
 - [Blocksize Party](http://blocksize.party)
 - [Learn Bitcoin Cash](https://learnbitcoin.cash/faucet)
-- [Testnet Faucet](https://developer.bitcoin.com/faucets/bch/)
+- [Testnet Faucet](https://faucet.fullstack.cash)
 
 ### High Volume Exchanges
 
