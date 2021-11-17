@@ -155,6 +155,7 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 - [Blockchair](https://github.com/Blockchair/Blockchair.Support/blob/master/API.md)
 - [BTC.com](https://bch.btc.com/api-doc#API)
 - [rest.bitcoin.com](https://rest.bitcoin.com/)
+- [Chaingraph](https://chaingraph.cash/) ([src](https://github.com/bitauth/chaingraph)) – A multi-node blockchain indexer and GraphQL API.
 
 ### Real Time Stats
 
@@ -181,6 +182,8 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 - [Flowee](http://www.flowee.org)
 - [BitcoinRewards](https://www.bitcoinrewards.com)
 - [SIGNUP](https://signup.cash) - Non-custodial web-based key signer and social interactions JavaScript Library
+- [Bitauth IDE](https://ide.bitauth.com/) ([src](https://github.com/bitauth/bitauth-ide)) – An online IDE for developing Bitcoin Cash contracts.
+- [Libauth](https://github.com/bitauth/libauth) – An ultra-lightweight, zero-dependency JavaScript library for Bitcoin Cash and Bitauth applications.
 
 # Community
 
