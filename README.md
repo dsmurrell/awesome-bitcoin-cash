@@ -173,6 +173,7 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 - [BitListen.Cash](https://bitlisten.cash/) - Visualize and LISTEN to BCH Transactions
 - [Blockmodo](https://blockmodo.com/quotes/BCH) - Realtime streaming Bitcoin Cash prices, news, social posts, and GitHub code checkins.
 - [Cashbar](https://github.com/johneas10/cashBar) - Live BCH prices against USD & BTC, along with 1hr, 24hr & 7day % changes on your desktop.
+- [CashFusion Stats](https://fusionstats.redteam.cash/)
 
 ### Projects
  
@@ -184,6 +185,7 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 - [SIGNUP](https://signup.cash) - Non-custodial web-based key signer and social interactions JavaScript Library
 - [Bitauth IDE](https://ide.bitauth.com/) ([src](https://github.com/bitauth/bitauth-ide)) – An online IDE for developing Bitcoin Cash contracts.
 - [Libauth](https://github.com/bitauth/libauth) – An ultra-lightweight, zero-dependency JavaScript library for Bitcoin Cash and Bitauth applications.
+- [rbch](https://cran.r-project.org/package=rbch) – A package written in the R statistical programming language for analysis of BCH blockchain data.
 
 # Community
 
