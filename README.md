@@ -184,6 +184,7 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 - [SIGNUP](https://signup.cash) - Non-custodial web-based key signer and social interactions JavaScript Library
 - [Bitauth IDE](https://ide.bitauth.com/) ([src](https://github.com/bitauth/bitauth-ide)) – An online IDE for developing Bitcoin Cash contracts.
 - [Libauth](https://github.com/bitauth/libauth) – An ultra-lightweight, zero-dependency JavaScript library for Bitcoin Cash and Bitauth applications.
+- [rbch](https://cran.r-project.org/package=rbch) – A package written in the R statistical programming language for analysis of BCH blockchain data.
 
 # Community
 
