@@ -173,6 +173,7 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 - [BitListen.Cash](https://bitlisten.cash/) - Visualize and LISTEN to BCH Transactions
 - [Blockmodo](https://blockmodo.com/quotes/BCH) - Realtime streaming Bitcoin Cash prices, news, social posts, and GitHub code checkins.
 - [Cashbar](https://github.com/johneas10/cashBar) - Live BCH prices against USD & BTC, along with 1hr, 24hr & 7day % changes on your desktop.
+- [CashFusion Stats](https://fusionstats.redteam.cash/)
 
 ### Projects
  
