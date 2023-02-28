@@ -186,6 +186,7 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 - [Bitauth IDE](https://ide.bitauth.com/) ([src](https://github.com/bitauth/bitauth-ide)) – An online IDE for developing Bitcoin Cash contracts.
 - [Libauth](https://github.com/bitauth/libauth) – An ultra-lightweight, zero-dependency JavaScript library for Bitcoin Cash and Bitauth applications.
 - [rbch](https://cran.r-project.org/package=rbch) – A package written in the R statistical programming language for analysis of BCH blockchain data.
+- [`<qr-code>`](https://github.com/bitjson/qr-code) – A no-framework, no-dependencies, customizable, animate-able, SVG-based `<qr-code>` HTML element.
 
 # Community
 
