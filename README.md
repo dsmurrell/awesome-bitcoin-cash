@@ -149,6 +149,7 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 - [BCCBlock](https://bccblock.info)
 - [BlockExplorer](https://bitcoincash.blockexplorer.com)
 - [ViaBTC](https://www.viabtc.com/)
+- [3xpl.com](https://3xpl.com/bitcoin-cash/blocks)
 
 ### APIs
 
@@ -156,6 +157,7 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 - [BTC.com](https://bch.btc.com/api-doc#API)
 - [rest.bitcoin.com](https://rest.bitcoin.com/)
 - [Chaingraph](https://chaingraph.cash/) ([src](https://github.com/bitauth/chaingraph)) – A multi-node blockchain indexer and GraphQL API.
+- [3xpl.com](https://3xpl.com/data/json-api)
 
 ### Real Time Stats
 
