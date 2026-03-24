@@ -97,7 +97,7 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 - [Bitflyer](https://bitflyer.com) (Japan)
 - [Quoine](https://quoine.com) (Japan)
 - [Kraken](https://kraken.com) (USA)
-- [Bitcoin Vietnam](https://bitcoin.vn/) (Vietnam)
+- [BitcoinVN](https://bitcoinvn.io/) (Vietnam)
 - [Bx.in.th](https://bx.in.th/THB/BCH/) (Thailand)
 - [SurBTC](https://surbtc.com/) (Latin America)
 
