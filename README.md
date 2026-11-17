@@ -61,6 +61,7 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 - [Coinify](https://coinify.com)
 - [piixPay](https://www.piixpay.com/web)
 - [Cashflow](https://cashflow.fm/)
+- [Manatee API](https://manatee-api.io/)
 
 ### Point of Sale Systems
 
